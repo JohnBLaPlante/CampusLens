@@ -1,0 +1,2811 @@
+"STUID","PROGRAM","TERM","TERM_GPA","CREDITS_ATTEMPTED","CREDITS_EARNED"
+"STU0001","Liberal Arts",1,4,15,15
+"STU0001","Liberal Arts",2,2.51,15,15
+"STU0001","Liberal Arts",3,2.89,15,15
+"STU0001","Liberal Arts",4,3,15,15
+"STU0001","Liberal Arts",5,3.44,15,15
+"STU0001","Liberal Arts",6,2.96,15,15
+"STU0001","Liberal Arts",7,3.85,15,15
+"STU0001","Liberal Arts",8,3.46,15,15
+"STU0002","Liberal Arts",1,3.86,15,15
+"STU0002","Liberal Arts",2,4,15,15
+"STU0002","Liberal Arts",3,3.88,15,15
+"STU0002","Liberal Arts",4,4,15,15
+"STU0002","Liberal Arts",5,4,15,15
+"STU0002","Liberal Arts",6,3.84,15,15
+"STU0002","Liberal Arts",7,4,15,15
+"STU0002","Liberal Arts",8,4,15,15
+"STU0003","Engineering",1,3.82,15,15
+"STU0003","Engineering",2,3.6,15,15
+"STU0003","Engineering",3,3.53,15,15
+"STU0003","Engineering",4,3.65,15,15
+"STU0003","Engineering",5,3.59,15,15
+"STU0003","Engineering",6,3.8,15,15
+"STU0003","Engineering",7,3.91,15,15
+"STU0003","Engineering",8,4,15,15
+"STU0004","Liberal Arts",1,2.64,15,15
+"STU0004","Liberal Arts",2,3.33,15,15
+"STU0004","Liberal Arts",3,2.67,15,15
+"STU0004","Liberal Arts",4,2.72,15,15
+"STU0005","Business",1,2.79,15,15
+"STU0005","Business",2,3.42,15,15
+"STU0005","Business",3,2.84,15,15
+"STU0005","Business",4,3.46,15,15
+"STU0005","Business",5,3.59,15,15
+"STU0005","Business",6,2.86,15,15
+"STU0005","Business",7,2.32,15,15
+"STU0005","Business",8,3.16,15,15
+"STU0006","Business",1,4,15,15
+"STU0006","Business",2,4,15,15
+"STU0006","Business",3,3.95,15,15
+"STU0006","Business",4,3.73,15,15
+"STU0006","Business",5,4,15,15
+"STU0006","Business",6,4,15,15
+"STU0006","Business",7,4,15,15
+"STU0006","Business",8,3.86,15,15
+"STU0007","Liberal Arts",1,2.84,15,15
+"STU0007","Liberal Arts",2,2.95,15,15
+"STU0007","Liberal Arts",3,3.07,15,15
+"STU0007","Liberal Arts",4,3.88,15,15
+"STU0007","Liberal Arts",5,3.01,15,15
+"STU0007","Liberal Arts",6,3.72,15,15
+"STU0007","Liberal Arts",7,3.44,15,15
+"STU0007","Liberal Arts",8,3.14,15,15
+"STU0008","Engineering",1,2.93,15,15
+"STU0008","Engineering",2,3.53,15,15
+"STU0008","Engineering",3,2.41,15,15
+"STU0008","Engineering",4,2.64,15,15
+"STU0008","Engineering",5,2.22,15,15
+"STU0008","Engineering",6,2.8,15,15
+"STU0008","Engineering",7,2.84,15,15
+"STU0008","Engineering",8,2.93,15,15
+"STU0009","Business",1,3.54,15,15
+"STU0009","Business",2,4,15,15
+"STU0009","Business",3,4,15,15
+"STU0009","Business",4,3.7,15,15
+"STU0009","Business",5,3.45,15,15
+"STU0009","Business",6,4,15,15
+"STU0009","Business",7,3.49,15,15
+"STU0009","Business",8,3.44,15,15
+"STU0010","Liberal Arts",1,3.71,15,15
+"STU0010","Liberal Arts",2,4,15,15
+"STU0010","Liberal Arts",3,4,15,15
+"STU0010","Liberal Arts",4,4,15,15
+"STU0010","Liberal Arts",5,4,15,15
+"STU0010","Liberal Arts",6,3.87,15,15
+"STU0010","Liberal Arts",7,4,15,15
+"STU0010","Liberal Arts",8,4,15,15
+"STU0011","Business",1,1.52,15,15
+"STU0011","Business",2,2.42,15,15
+"STU0011","Business",3,2.09,15,15
+"STU0011","Business",4,2.3,15,15
+"STU0011","Business",5,2.21,15,15
+"STU0011","Business",6,2.7,15,15
+"STU0011","Business",7,3.13,15,15
+"STU0011","Business",8,2.23,15,15
+"STU0012","Liberal Arts",1,3.32,15,15
+"STU0012","Liberal Arts",2,3.44,15,15
+"STU0012","Liberal Arts",3,3.89,15,15
+"STU0012","Liberal Arts",4,4,15,15
+"STU0012","Liberal Arts",5,3.29,15,15
+"STU0012","Liberal Arts",6,3.95,15,15
+"STU0012","Liberal Arts",7,3.97,15,15
+"STU0012","Liberal Arts",8,4,15,15
+"STU0013","Liberal Arts",1,3.07,15,15
+"STU0013","Liberal Arts",2,3.9,15,15
+"STU0013","Liberal Arts",3,2.98,15,15
+"STU0013","Liberal Arts",4,3.01,15,15
+"STU0013","Liberal Arts",5,3.56,15,15
+"STU0013","Liberal Arts",6,3.6,15,15
+"STU0013","Liberal Arts",7,3.31,15,15
+"STU0013","Liberal Arts",8,3.83,15,15
+"STU0014","Engineering",1,4,15,15
+"STU0014","Engineering",2,3.27,15,15
+"STU0014","Engineering",3,3.56,15,15
+"STU0014","Engineering",4,3.3,15,15
+"STU0014","Engineering",5,4,15,15
+"STU0014","Engineering",6,3.64,15,15
+"STU0015","Business",1,2.29,15,15
+"STU0015","Business",2,3.04,15,15
+"STU0015","Business",3,2.32,15,15
+"STU0015","Business",4,3.24,15,15
+"STU0015","Business",5,2.85,15,15
+"STU0015","Business",6,3.18,15,15
+"STU0015","Business",7,3.2,15,15
+"STU0015","Business",8,3.77,15,15
+"STU0016","Liberal Arts",1,3.07,15,15
+"STU0016","Liberal Arts",2,3.36,15,15
+"STU0016","Liberal Arts",3,3.46,15,15
+"STU0016","Liberal Arts",4,2.73,15,15
+"STU0016","Liberal Arts",5,2.76,15,15
+"STU0016","Liberal Arts",6,3.47,15,15
+"STU0016","Liberal Arts",7,2.59,15,15
+"STU0016","Liberal Arts",8,2.51,15,15
+"STU0017","Liberal Arts",1,3.5,15,15
+"STU0017","Liberal Arts",2,4,15,15
+"STU0017","Liberal Arts",3,3.79,15,15
+"STU0017","Liberal Arts",4,3.21,15,15
+"STU0017","Liberal Arts",5,3.48,15,15
+"STU0017","Liberal Arts",6,3.5,15,15
+"STU0017","Liberal Arts",7,3.46,15,15
+"STU0017","Liberal Arts",8,2.97,15,15
+"STU0018","Engineering",1,2.42,15,15
+"STU0018","Engineering",2,2.65,15,15
+"STU0018","Engineering",3,2.59,15,15
+"STU0018","Engineering",4,2.46,15,15
+"STU0018","Engineering",5,2.47,15,15
+"STU0018","Engineering",6,2.98,15,15
+"STU0018","Engineering",7,2.5,15,15
+"STU0018","Engineering",8,1.49,15,15
+"STU0019","Business",1,2.22,15,15
+"STU0019","Business",2,1.3,15,15
+"STU0019","Business",3,2.2,15,15
+"STU0019","Business",4,2.51,15,15
+"STU0019","Business",5,1.64,15,15
+"STU0019","Business",6,1.88,15,15
+"STU0020","Business",1,3.71,15,15
+"STU0020","Business",2,3.63,15,15
+"STU0020","Business",3,4,15,15
+"STU0020","Business",4,4,15,15
+"STU0020","Business",5,4,15,15
+"STU0020","Business",6,4,15,15
+"STU0020","Business",7,4,15,15
+"STU0020","Business",8,4,15,15
+"STU0021","Liberal Arts",1,2.35,15,15
+"STU0021","Liberal Arts",2,2.46,15,15
+"STU0021","Liberal Arts",3,2.84,15,15
+"STU0021","Liberal Arts",4,1.86,15,15
+"STU0021","Liberal Arts",5,3.13,15,15
+"STU0021","Liberal Arts",6,2.05,15,15
+"STU0021","Liberal Arts",7,2.28,15,15
+"STU0021","Liberal Arts",8,2.39,15,15
+"STU0022","Engineering",1,2.21,15,15
+"STU0022","Engineering",2,2.8,15,15
+"STU0022","Engineering",3,3.23,15,15
+"STU0022","Engineering",4,2.82,15,15
+"STU0022","Engineering",5,2.58,15,15
+"STU0022","Engineering",6,3.17,15,15
+"STU0022","Engineering",7,3.26,15,15
+"STU0022","Engineering",8,2.9,15,15
+"STU0023","Liberal Arts",1,2.34,15,15
+"STU0023","Liberal Arts",2,2.44,15,15
+"STU0023","Liberal Arts",3,2.02,15,15
+"STU0023","Liberal Arts",4,2.37,15,15
+"STU0023","Liberal Arts",5,2.2,15,15
+"STU0023","Liberal Arts",6,1.34,15,15
+"STU0023","Liberal Arts",7,1.93,15,15
+"STU0024","Liberal Arts",1,2.84,15,15
+"STU0024","Liberal Arts",2,2.59,15,15
+"STU0024","Liberal Arts",3,2.91,15,15
+"STU0024","Liberal Arts",4,2.27,15,15
+"STU0024","Liberal Arts",5,2.6,15,15
+"STU0024","Liberal Arts",6,2.71,15,15
+"STU0024","Liberal Arts",7,2.61,15,15
+"STU0024","Liberal Arts",8,2.85,15,15
+"STU0025","Engineering",1,2.63,15,15
+"STU0025","Engineering",2,3.3,15,15
+"STU0025","Engineering",3,2.66,15,15
+"STU0025","Engineering",4,2.73,15,15
+"STU0025","Engineering",5,3.22,15,15
+"STU0025","Engineering",6,2.77,15,15
+"STU0025","Engineering",7,3.4,15,15
+"STU0025","Engineering",8,4,15,15
+"STU0026","Business",1,3.02,15,15
+"STU0026","Business",2,3.41,15,15
+"STU0026","Business",3,3.6,15,15
+"STU0026","Business",4,2.39,15,15
+"STU0026","Business",5,2.43,15,15
+"STU0026","Business",6,3.4,15,15
+"STU0026","Business",7,2.47,15,15
+"STU0026","Business",8,2.81,15,15
+"STU0027","Business",1,3.31,15,15
+"STU0027","Business",2,2.39,15,15
+"STU0027","Business",3,3,15,15
+"STU0027","Business",4,2.24,15,15
+"STU0027","Business",5,3.35,15,15
+"STU0027","Business",6,2.41,15,15
+"STU0027","Business",7,3.09,15,15
+"STU0027","Business",8,2.32,15,15
+"STU0028","Liberal Arts",1,2.9,15,15
+"STU0028","Liberal Arts",2,3.24,15,15
+"STU0028","Liberal Arts",3,3.81,15,15
+"STU0028","Liberal Arts",4,3.34,15,15
+"STU0028","Liberal Arts",5,2.6,15,15
+"STU0028","Liberal Arts",6,2.85,15,15
+"STU0028","Liberal Arts",7,3.14,15,15
+"STU0028","Liberal Arts",8,2.44,15,15
+"STU0029","Business",1,3.36,15,15
+"STU0029","Business",2,3.24,15,15
+"STU0029","Business",3,3.09,15,15
+"STU0029","Business",4,3.82,15,15
+"STU0029","Business",5,2.54,15,15
+"STU0029","Business",6,3.62,15,15
+"STU0029","Business",7,2.72,15,15
+"STU0029","Business",8,2.52,15,15
+"STU0030","Liberal Arts",1,3.45,15,15
+"STU0030","Liberal Arts",2,3.2,15,15
+"STU0030","Liberal Arts",3,3.56,15,15
+"STU0030","Liberal Arts",4,3.89,15,15
+"STU0030","Liberal Arts",5,2.71,15,15
+"STU0030","Liberal Arts",6,3.86,15,15
+"STU0030","Liberal Arts",7,3.8,15,15
+"STU0030","Liberal Arts",8,3.73,15,15
+"STU0031","Liberal Arts",1,2.99,15,15
+"STU0031","Liberal Arts",2,3.71,15,15
+"STU0031","Liberal Arts",3,3.35,15,15
+"STU0031","Liberal Arts",4,2.57,15,15
+"STU0031","Liberal Arts",5,2.43,15,15
+"STU0031","Liberal Arts",6,3.13,15,15
+"STU0031","Liberal Arts",7,2.72,15,15
+"STU0031","Liberal Arts",8,2.07,15,15
+"STU0032","Liberal Arts",1,3.16,15,15
+"STU0032","Liberal Arts",2,3.02,15,15
+"STU0032","Liberal Arts",3,3.34,15,15
+"STU0032","Liberal Arts",4,2.53,15,15
+"STU0032","Liberal Arts",5,3.31,15,15
+"STU0032","Liberal Arts",6,2.79,15,15
+"STU0032","Liberal Arts",7,3.16,15,15
+"STU0032","Liberal Arts",8,3.49,15,15
+"STU0033","Business",1,3.32,15,15
+"STU0033","Business",2,3.18,15,15
+"STU0033","Business",3,2.87,15,15
+"STU0033","Business",4,2.86,15,15
+"STU0033","Business",5,3.04,15,15
+"STU0033","Business",6,3.08,15,15
+"STU0033","Business",7,2.49,15,15
+"STU0033","Business",8,2.45,15,15
+"STU0034","Business",1,3.92,15,15
+"STU0034","Business",2,4,15,15
+"STU0034","Business",3,3.51,15,15
+"STU0034","Business",4,4,15,15
+"STU0034","Business",5,3.87,15,15
+"STU0034","Business",6,3.98,15,15
+"STU0034","Business",7,3.66,15,15
+"STU0034","Business",8,4,15,15
+"STU0035","Engineering",1,3.15,15,15
+"STU0035","Engineering",2,3.85,15,15
+"STU0035","Engineering",3,2.45,15,15
+"STU0035","Engineering",4,3.21,15,15
+"STU0035","Engineering",5,3.48,15,15
+"STU0035","Engineering",6,3.84,15,15
+"STU0035","Engineering",7,3.82,15,15
+"STU0035","Engineering",8,3.06,15,15
+"STU0036","Liberal Arts",1,4,15,15
+"STU0036","Liberal Arts",2,4,15,15
+"STU0036","Liberal Arts",3,3.77,15,15
+"STU0036","Liberal Arts",4,4,15,15
+"STU0036","Liberal Arts",5,3.83,15,15
+"STU0036","Liberal Arts",6,4,15,15
+"STU0036","Liberal Arts",7,4,15,15
+"STU0036","Liberal Arts",8,3.74,15,15
+"STU0037","Engineering",1,2.14,15,15
+"STU0037","Engineering",2,2.94,15,15
+"STU0037","Engineering",3,2.48,15,15
+"STU0037","Engineering",4,2.42,15,15
+"STU0037","Engineering",5,2.63,15,15
+"STU0037","Engineering",6,2.94,15,15
+"STU0037","Engineering",7,1.65,15,15
+"STU0037","Engineering",8,2.8,15,15
+"STU0038","Engineering",1,2.6,15,15
+"STU0038","Engineering",2,2.16,15,15
+"STU0038","Engineering",3,2.63,15,15
+"STU0038","Engineering",4,2.39,15,15
+"STU0038","Engineering",5,2.27,15,15
+"STU0038","Engineering",6,2.63,15,15
+"STU0038","Engineering",7,2.76,15,15
+"STU0038","Engineering",8,2.22,15,15
+"STU0039","Liberal Arts",1,3.68,15,15
+"STU0039","Liberal Arts",2,3.74,15,15
+"STU0039","Liberal Arts",3,3.82,15,15
+"STU0039","Liberal Arts",4,3.73,15,15
+"STU0039","Liberal Arts",5,3.54,15,15
+"STU0039","Liberal Arts",6,4,15,15
+"STU0039","Liberal Arts",7,4,15,15
+"STU0039","Liberal Arts",8,4,15,15
+"STU0040","Business",1,3.17,15,15
+"STU0040","Business",2,3.67,15,15
+"STU0040","Business",3,4,15,15
+"STU0040","Business",4,4,15,15
+"STU0040","Business",5,4,15,15
+"STU0040","Business",6,3.5,15,15
+"STU0040","Business",7,3.75,15,15
+"STU0040","Business",8,3.54,15,15
+"STU0042","Business",1,3.03,15,15
+"STU0042","Business",2,2.1,15,15
+"STU0042","Business",3,2.74,15,15
+"STU0042","Business",4,2.89,15,15
+"STU0042","Business",5,3.12,15,15
+"STU0043","Engineering",1,2.62,15,15
+"STU0043","Engineering",2,2.16,15,15
+"STU0043","Engineering",3,2.95,15,15
+"STU0043","Engineering",4,2.69,15,15
+"STU0043","Engineering",5,2.13,15,15
+"STU0043","Engineering",6,3.4,15,15
+"STU0043","Engineering",7,2.53,15,15
+"STU0043","Engineering",8,2.56,15,15
+"STU0044","Liberal Arts",1,3.86,15,15
+"STU0044","Liberal Arts",2,3.89,15,15
+"STU0044","Liberal Arts",3,3.9,15,15
+"STU0044","Liberal Arts",4,4,15,15
+"STU0044","Liberal Arts",5,4,15,15
+"STU0044","Liberal Arts",6,4,15,15
+"STU0044","Liberal Arts",7,3.97,15,15
+"STU0044","Liberal Arts",8,3.54,15,15
+"STU0045","Business",1,3.29,15,15
+"STU0045","Business",2,3.61,15,15
+"STU0045","Business",3,4,15,15
+"STU0045","Business",4,3.33,15,15
+"STU0045","Business",5,4,15,15
+"STU0045","Business",6,3.97,15,15
+"STU0045","Business",7,4,15,15
+"STU0045","Business",8,3.55,15,15
+"STU0046","Liberal Arts",1,3.16,15,15
+"STU0046","Liberal Arts",2,3.89,15,15
+"STU0046","Liberal Arts",3,3,15,15
+"STU0046","Liberal Arts",4,2.33,15,15
+"STU0046","Liberal Arts",5,2.81,15,15
+"STU0046","Liberal Arts",6,2.93,15,15
+"STU0046","Liberal Arts",7,2.01,15,15
+"STU0046","Liberal Arts",8,2.61,15,15
+"STU0047","Liberal Arts",1,4,15,15
+"STU0047","Liberal Arts",2,3.34,15,15
+"STU0047","Liberal Arts",3,3.78,15,15
+"STU0047","Liberal Arts",4,4,15,15
+"STU0047","Liberal Arts",5,4,15,15
+"STU0047","Liberal Arts",6,4,15,15
+"STU0047","Liberal Arts",7,3.65,15,15
+"STU0047","Liberal Arts",8,3.92,15,15
+"STU0048","Business",1,3.05,15,15
+"STU0048","Business",2,3.08,15,15
+"STU0048","Business",3,3.72,15,15
+"STU0049","Liberal Arts",1,3.41,15,15
+"STU0049","Liberal Arts",2,3.21,15,15
+"STU0049","Liberal Arts",3,2.9,15,15
+"STU0049","Liberal Arts",4,2.82,15,15
+"STU0049","Liberal Arts",5,2.88,15,15
+"STU0049","Liberal Arts",6,3.03,15,15
+"STU0049","Liberal Arts",7,2.27,15,15
+"STU0049","Liberal Arts",8,1.99,15,15
+"STU0050","Business",1,2.94,15,15
+"STU0050","Business",2,3.62,15,15
+"STU0051","Engineering",1,3.01,15,15
+"STU0051","Engineering",2,2.61,15,15
+"STU0051","Engineering",3,3.92,15,15
+"STU0051","Engineering",4,3.41,15,15
+"STU0051","Engineering",5,3.32,15,15
+"STU0051","Engineering",6,3.03,15,15
+"STU0051","Engineering",7,2.82,15,15
+"STU0051","Engineering",8,2.73,15,15
+"STU0052","Engineering",1,1.85,15,15
+"STU0052","Engineering",2,2.06,15,15
+"STU0052","Engineering",3,2.1,15,15
+"STU0052","Engineering",4,2.12,15,15
+"STU0052","Engineering",5,2.53,15,15
+"STU0052","Engineering",6,1.57,15,15
+"STU0052","Engineering",7,1.61,15,15
+"STU0053","Business",1,2.94,15,15
+"STU0053","Business",2,2.37,15,15
+"STU0053","Business",3,3.95,15,15
+"STU0053","Business",4,2.77,15,15
+"STU0053","Business",5,2.3,15,15
+"STU0053","Business",6,3.49,15,15
+"STU0053","Business",7,2.6,15,15
+"STU0053","Business",8,3.28,15,15
+"STU0054","Liberal Arts",1,3.36,15,15
+"STU0054","Liberal Arts",2,2.18,15,15
+"STU0054","Liberal Arts",3,3.13,15,15
+"STU0054","Liberal Arts",4,3.38,15,15
+"STU0054","Liberal Arts",5,3.05,15,15
+"STU0054","Liberal Arts",6,3.43,15,15
+"STU0054","Liberal Arts",7,2.38,15,15
+"STU0054","Liberal Arts",8,2.58,15,15
+"STU0055","Engineering",1,3.61,15,15
+"STU0055","Engineering",2,3.12,15,15
+"STU0055","Engineering",3,3.36,15,15
+"STU0055","Engineering",4,3.92,15,15
+"STU0055","Engineering",5,3.84,15,15
+"STU0055","Engineering",6,3.67,15,15
+"STU0055","Engineering",7,3.8,15,15
+"STU0055","Engineering",8,4,15,15
+"STU0056","Liberal Arts",1,3.16,15,15
+"STU0056","Liberal Arts",2,2.52,15,15
+"STU0056","Liberal Arts",3,3.57,15,15
+"STU0056","Liberal Arts",4,2.58,15,15
+"STU0056","Liberal Arts",5,3.03,15,15
+"STU0056","Liberal Arts",6,3.09,15,15
+"STU0056","Liberal Arts",7,2.74,15,15
+"STU0056","Liberal Arts",8,3.65,15,15
+"STU0057","Business",1,3.3,15,15
+"STU0057","Business",2,3.93,15,15
+"STU0057","Business",3,3.94,15,15
+"STU0057","Business",4,3.07,15,15
+"STU0057","Business",5,3.91,15,15
+"STU0057","Business",6,3.33,15,15
+"STU0057","Business",7,3.6,15,15
+"STU0057","Business",8,3.8,15,15
+"STU0058","Engineering",1,3.68,15,15
+"STU0058","Engineering",2,3.6,15,15
+"STU0058","Engineering",3,3.49,15,15
+"STU0058","Engineering",4,3.63,15,15
+"STU0058","Engineering",5,3.11,15,15
+"STU0058","Engineering",6,3.46,15,15
+"STU0058","Engineering",7,3.1,15,15
+"STU0058","Engineering",8,3.55,15,15
+"STU0059","Engineering",1,2.59,15,15
+"STU0059","Engineering",2,2.45,15,15
+"STU0059","Engineering",3,3.16,15,15
+"STU0059","Engineering",4,3.67,15,15
+"STU0059","Engineering",5,3.05,15,15
+"STU0059","Engineering",6,3.21,15,15
+"STU0059","Engineering",7,3.44,15,15
+"STU0059","Engineering",8,2.81,15,15
+"STU0060","Business",1,3.1,15,15
+"STU0060","Business",2,3.44,15,15
+"STU0060","Business",3,2.59,15,15
+"STU0060","Business",4,2.76,15,15
+"STU0060","Business",5,2.71,15,15
+"STU0060","Business",6,2.91,15,15
+"STU0060","Business",7,2.76,15,15
+"STU0060","Business",8,2.87,15,15
+"STU0061","Business",1,4,15,15
+"STU0061","Business",2,3.75,15,15
+"STU0061","Business",3,4,15,15
+"STU0061","Business",4,3.71,15,15
+"STU0061","Business",5,3.98,15,15
+"STU0061","Business",6,3.3,15,15
+"STU0061","Business",7,3.62,15,15
+"STU0061","Business",8,4,15,15
+"STU0062","Liberal Arts",1,4,15,15
+"STU0062","Liberal Arts",2,4,15,15
+"STU0062","Liberal Arts",3,4,15,15
+"STU0062","Liberal Arts",4,4,15,15
+"STU0062","Liberal Arts",5,3.26,15,15
+"STU0062","Liberal Arts",6,4,15,15
+"STU0062","Liberal Arts",7,4,15,15
+"STU0062","Liberal Arts",8,4,15,15
+"STU0063","Liberal Arts",1,4,15,15
+"STU0063","Liberal Arts",2,3.32,15,15
+"STU0063","Liberal Arts",3,3.52,15,15
+"STU0063","Liberal Arts",4,3.88,15,15
+"STU0063","Liberal Arts",5,4,15,15
+"STU0063","Liberal Arts",6,3.63,15,15
+"STU0063","Liberal Arts",7,3.46,15,15
+"STU0063","Liberal Arts",8,4,15,15
+"STU0064","Business",1,2.98,15,15
+"STU0064","Business",2,2.56,15,15
+"STU0064","Business",3,3.01,15,15
+"STU0064","Business",4,3.22,15,15
+"STU0064","Business",5,2.74,15,15
+"STU0064","Business",6,4,15,15
+"STU0064","Business",7,2.75,15,15
+"STU0064","Business",8,2.86,15,15
+"STU0065","Liberal Arts",1,2.94,15,15
+"STU0065","Liberal Arts",2,2.61,15,15
+"STU0065","Liberal Arts",3,2.55,15,15
+"STU0065","Liberal Arts",4,2.76,15,15
+"STU0065","Liberal Arts",5,2.49,15,15
+"STU0065","Liberal Arts",6,2.81,15,15
+"STU0065","Liberal Arts",7,2.4,15,15
+"STU0065","Liberal Arts",8,2.27,15,15
+"STU0066","Engineering",1,3.52,15,15
+"STU0066","Engineering",2,3.1,15,15
+"STU0066","Engineering",3,3.48,15,15
+"STU0066","Engineering",4,3.87,15,15
+"STU0066","Engineering",5,3.09,15,15
+"STU0066","Engineering",6,3.07,15,15
+"STU0066","Engineering",7,3.72,15,15
+"STU0066","Engineering",8,3.09,15,15
+"STU0067","Engineering",1,3.5,15,15
+"STU0067","Engineering",2,3.7,15,15
+"STU0067","Engineering",3,3.53,15,15
+"STU0067","Engineering",4,3.16,15,15
+"STU0067","Engineering",5,3.95,15,15
+"STU0067","Engineering",6,3.36,15,15
+"STU0067","Engineering",7,3.33,15,15
+"STU0067","Engineering",8,3.22,15,15
+"STU0068","Liberal Arts",1,3.4,15,15
+"STU0068","Liberal Arts",2,3.79,15,15
+"STU0068","Liberal Arts",3,3.85,15,15
+"STU0068","Liberal Arts",4,3.75,15,15
+"STU0068","Liberal Arts",5,4,15,15
+"STU0068","Liberal Arts",6,3.95,15,15
+"STU0068","Liberal Arts",7,4,15,15
+"STU0068","Liberal Arts",8,3.85,15,15
+"STU0069","Business",1,2.03,15,15
+"STU0069","Business",2,1.64,15,15
+"STU0069","Business",3,2.26,15,15
+"STU0069","Business",4,2.36,15,15
+"STU0069","Business",5,0.96,15,9
+"STU0069","Business",6,1.1,15,15
+"STU0070","Engineering",1,3.27,15,15
+"STU0070","Engineering",2,3.06,15,15
+"STU0070","Engineering",3,3.07,15,15
+"STU0070","Engineering",4,3.19,15,15
+"STU0070","Engineering",5,3.16,15,15
+"STU0070","Engineering",6,3.18,15,15
+"STU0070","Engineering",7,2.57,15,15
+"STU0070","Engineering",8,3.74,15,15
+"STU0071","Engineering",1,4,15,15
+"STU0071","Engineering",2,3.8,15,15
+"STU0071","Engineering",3,3.58,15,15
+"STU0071","Engineering",4,3.94,15,15
+"STU0071","Engineering",5,3.97,15,15
+"STU0071","Engineering",6,3.75,15,15
+"STU0071","Engineering",7,4,15,15
+"STU0071","Engineering",8,3.91,15,15
+"STU0072","Engineering",1,1.12,15,15
+"STU0072","Engineering",2,0.84,15,9
+"STU0073","Engineering",1,2.27,15,15
+"STU0073","Engineering",2,2.87,15,15
+"STU0073","Engineering",3,3.45,15,15
+"STU0073","Engineering",4,3.61,15,15
+"STU0073","Engineering",5,2.55,15,15
+"STU0073","Engineering",6,3.11,15,15
+"STU0073","Engineering",7,2.72,15,15
+"STU0073","Engineering",8,3.9,15,15
+"STU0074","Business",1,3.48,15,15
+"STU0074","Business",2,3.3,15,15
+"STU0074","Business",3,3.76,15,15
+"STU0074","Business",4,3.43,15,15
+"STU0074","Business",5,3.87,15,15
+"STU0074","Business",6,3.23,15,15
+"STU0074","Business",7,3.28,15,15
+"STU0074","Business",8,2.79,15,15
+"STU0075","Engineering",1,3.31,15,15
+"STU0075","Engineering",2,2.51,15,15
+"STU0075","Engineering",3,3.11,15,15
+"STU0075","Engineering",4,2.03,15,15
+"STU0075","Engineering",5,3.62,15,15
+"STU0075","Engineering",6,3.08,15,15
+"STU0075","Engineering",7,3.33,15,15
+"STU0075","Engineering",8,3.4,15,15
+"STU0076","Liberal Arts",1,2.65,15,15
+"STU0076","Liberal Arts",2,1.79,15,15
+"STU0076","Liberal Arts",3,1.58,15,15
+"STU0077","Engineering",1,3.39,15,15
+"STU0077","Engineering",2,2.94,15,15
+"STU0077","Engineering",3,3.26,15,15
+"STU0077","Engineering",4,3.12,15,15
+"STU0077","Engineering",5,3.33,15,15
+"STU0077","Engineering",6,3.48,15,15
+"STU0077","Engineering",7,3.08,15,15
+"STU0077","Engineering",8,3.94,15,15
+"STU0078","Business",1,4,15,15
+"STU0078","Business",2,4,15,15
+"STU0078","Business",3,4,15,15
+"STU0078","Business",4,3.54,15,15
+"STU0079","Business",1,2.33,15,15
+"STU0079","Business",2,2.72,15,15
+"STU0079","Business",3,2.02,15,15
+"STU0079","Business",4,3.02,15,15
+"STU0079","Business",5,2.62,15,15
+"STU0080","Engineering",1,3.47,15,15
+"STU0080","Engineering",2,4,15,15
+"STU0080","Engineering",3,4,15,15
+"STU0080","Engineering",4,3.62,15,15
+"STU0080","Engineering",5,4,15,15
+"STU0080","Engineering",6,3.55,15,15
+"STU0080","Engineering",7,4,15,15
+"STU0080","Engineering",8,4,15,15
+"STU0081","Business",1,4,15,15
+"STU0081","Business",2,3.47,15,15
+"STU0081","Business",3,3.32,15,15
+"STU0081","Business",4,3.99,15,15
+"STU0081","Business",5,3.85,15,15
+"STU0081","Business",6,3.58,15,15
+"STU0081","Business",7,3.62,15,15
+"STU0081","Business",8,3.71,15,15
+"STU0082","Engineering",1,2.68,15,15
+"STU0083","Business",1,2.8,15,15
+"STU0083","Business",2,2.76,15,15
+"STU0083","Business",3,2.46,15,15
+"STU0083","Business",4,2.2,15,15
+"STU0083","Business",5,2.08,15,15
+"STU0083","Business",6,2.4,15,15
+"STU0083","Business",7,2.67,15,15
+"STU0083","Business",8,2.62,15,15
+"STU0084","Business",1,3.02,15,15
+"STU0084","Business",2,3.08,15,15
+"STU0084","Business",3,3.34,15,15
+"STU0084","Business",4,2.72,15,15
+"STU0084","Business",5,2.83,15,15
+"STU0084","Business",6,2.29,15,15
+"STU0084","Business",7,3.35,15,15
+"STU0084","Business",8,3.45,15,15
+"STU0085","Liberal Arts",1,3.35,15,15
+"STU0085","Liberal Arts",2,3,15,15
+"STU0085","Liberal Arts",3,3.05,15,15
+"STU0085","Liberal Arts",4,2.91,15,15
+"STU0085","Liberal Arts",5,3.12,15,15
+"STU0085","Liberal Arts",6,3.04,15,15
+"STU0085","Liberal Arts",7,3.31,15,15
+"STU0085","Liberal Arts",8,2.28,15,15
+"STU0086","Business",1,3.58,15,15
+"STU0086","Business",2,3.77,15,15
+"STU0086","Business",3,3.22,15,15
+"STU0086","Business",4,4,15,15
+"STU0086","Business",5,3.54,15,15
+"STU0087","Engineering",1,3.17,15,15
+"STU0087","Engineering",2,3.43,15,15
+"STU0087","Engineering",3,3.21,15,15
+"STU0087","Engineering",4,3.08,15,15
+"STU0087","Engineering",5,2.73,15,15
+"STU0087","Engineering",6,3.12,15,15
+"STU0087","Engineering",7,3.26,15,15
+"STU0087","Engineering",8,3.11,15,15
+"STU0088","Engineering",1,3.44,15,15
+"STU0088","Engineering",2,2.6,15,15
+"STU0088","Engineering",3,3.32,15,15
+"STU0088","Engineering",4,3.44,15,15
+"STU0088","Engineering",5,3.02,15,15
+"STU0088","Engineering",6,3.39,15,15
+"STU0088","Engineering",7,3.94,15,15
+"STU0088","Engineering",8,3.27,15,15
+"STU0089","Engineering",1,3.67,15,15
+"STU0089","Engineering",2,4,15,15
+"STU0089","Engineering",3,3.58,15,15
+"STU0089","Engineering",4,3.93,15,15
+"STU0089","Engineering",5,4,15,15
+"STU0089","Engineering",6,3.98,15,15
+"STU0089","Engineering",7,4,15,15
+"STU0089","Engineering",8,3.5,15,15
+"STU0090","Engineering",1,4,15,15
+"STU0090","Engineering",2,3.57,15,15
+"STU0090","Engineering",3,3.66,15,15
+"STU0090","Engineering",4,3.95,15,15
+"STU0090","Engineering",5,3.77,15,15
+"STU0090","Engineering",6,3.78,15,15
+"STU0090","Engineering",7,4,15,15
+"STU0090","Engineering",8,3.69,15,15
+"STU0091","Business",1,3.72,15,15
+"STU0091","Business",2,3.47,15,15
+"STU0091","Business",3,3.62,15,15
+"STU0091","Business",4,3.94,15,15
+"STU0091","Business",5,3.97,15,15
+"STU0091","Business",6,4,15,15
+"STU0091","Business",7,4,15,15
+"STU0091","Business",8,3.71,15,15
+"STU0092","Engineering",1,3.95,15,15
+"STU0092","Engineering",2,3.96,15,15
+"STU0092","Engineering",3,2.99,15,15
+"STU0092","Engineering",4,4,15,15
+"STU0092","Engineering",5,4,15,15
+"STU0092","Engineering",6,2.86,15,15
+"STU0092","Engineering",7,3.04,15,15
+"STU0092","Engineering",8,3.35,15,15
+"STU0093","Engineering",1,3.54,15,15
+"STU0093","Engineering",2,3.28,15,15
+"STU0093","Engineering",3,3.62,15,15
+"STU0093","Engineering",4,3.81,15,15
+"STU0093","Engineering",5,3.45,15,15
+"STU0093","Engineering",6,3.72,15,15
+"STU0093","Engineering",7,3.89,15,15
+"STU0093","Engineering",8,3.16,15,15
+"STU0094","Liberal Arts",1,4,15,15
+"STU0094","Liberal Arts",2,4,15,15
+"STU0094","Liberal Arts",3,4,15,15
+"STU0094","Liberal Arts",4,4,15,15
+"STU0094","Liberal Arts",5,3.8,15,15
+"STU0094","Liberal Arts",6,3.99,15,15
+"STU0094","Liberal Arts",7,4,15,15
+"STU0094","Liberal Arts",8,4,15,15
+"STU0095","Liberal Arts",1,4,15,15
+"STU0095","Liberal Arts",2,3.76,15,15
+"STU0095","Liberal Arts",3,3.87,15,15
+"STU0095","Liberal Arts",4,3.65,15,15
+"STU0095","Liberal Arts",5,3.62,15,15
+"STU0095","Liberal Arts",6,3.64,15,15
+"STU0095","Liberal Arts",7,4,15,15
+"STU0095","Liberal Arts",8,3.54,15,15
+"STU0096","Liberal Arts",1,3.76,15,15
+"STU0096","Liberal Arts",2,2.85,15,15
+"STU0096","Liberal Arts",3,3.31,15,15
+"STU0096","Liberal Arts",4,3.04,15,15
+"STU0096","Liberal Arts",5,3.8,15,15
+"STU0096","Liberal Arts",6,2.94,15,15
+"STU0096","Liberal Arts",7,2.53,15,15
+"STU0096","Liberal Arts",8,3.39,15,15
+"STU0097","Engineering",1,3.69,15,15
+"STU0097","Engineering",2,3.79,15,15
+"STU0097","Engineering",3,3.55,15,15
+"STU0097","Engineering",4,2.68,15,15
+"STU0097","Engineering",5,3.85,15,15
+"STU0097","Engineering",6,3.27,15,15
+"STU0097","Engineering",7,4,15,15
+"STU0097","Engineering",8,3.84,15,15
+"STU0098","Business",1,3.39,15,15
+"STU0098","Business",2,4,15,15
+"STU0098","Business",3,2.99,15,15
+"STU0098","Business",4,3.6,15,15
+"STU0098","Business",5,3.51,15,15
+"STU0098","Business",6,4,15,15
+"STU0098","Business",7,4,15,15
+"STU0098","Business",8,3.71,15,15
+"STU0099","Liberal Arts",1,4,15,15
+"STU0099","Liberal Arts",2,3.88,15,15
+"STU0099","Liberal Arts",3,3.61,15,15
+"STU0099","Liberal Arts",4,3.6,15,15
+"STU0099","Liberal Arts",5,4,15,15
+"STU0099","Liberal Arts",6,4,15,15
+"STU0099","Liberal Arts",7,3.84,15,15
+"STU0099","Liberal Arts",8,3.81,15,15
+"STU0100","Business",1,2.76,15,15
+"STU0100","Business",2,3.02,15,15
+"STU0100","Business",3,2.96,15,15
+"STU0100","Business",4,2.78,15,15
+"STU0100","Business",5,2.34,15,15
+"STU0100","Business",6,3,15,15
+"STU0100","Business",7,2.85,15,15
+"STU0100","Business",8,2.56,15,15
+"STU0101","Business",1,3.9,15,15
+"STU0101","Business",2,4,15,15
+"STU0101","Business",3,4,15,15
+"STU0101","Business",4,4,15,15
+"STU0101","Business",5,4,15,15
+"STU0101","Business",6,3.95,15,15
+"STU0101","Business",7,4,15,15
+"STU0101","Business",8,4,15,15
+"STU0102","Engineering",1,3.14,15,15
+"STU0102","Engineering",2,3.65,15,15
+"STU0102","Engineering",3,3.75,15,15
+"STU0102","Engineering",4,2.14,15,15
+"STU0102","Engineering",5,2.69,15,15
+"STU0102","Engineering",6,3.25,15,15
+"STU0102","Engineering",7,3.04,15,15
+"STU0102","Engineering",8,2.84,15,15
+"STU0103","Engineering",1,2.48,15,15
+"STU0103","Engineering",2,2.02,15,15
+"STU0103","Engineering",3,1.79,15,15
+"STU0103","Engineering",4,2.22,15,15
+"STU0103","Engineering",5,2.32,15,15
+"STU0103","Engineering",6,1.46,15,15
+"STU0103","Engineering",7,2.23,15,15
+"STU0103","Engineering",8,2.49,15,15
+"STU0104","Business",1,3.12,15,15
+"STU0104","Business",2,4,15,15
+"STU0104","Business",3,3.55,15,15
+"STU0104","Business",4,4,15,15
+"STU0104","Business",5,4,15,15
+"STU0104","Business",6,3.8,15,15
+"STU0104","Business",7,3.87,15,15
+"STU0104","Business",8,3.81,15,15
+"STU0105","Liberal Arts",1,3.73,15,15
+"STU0105","Liberal Arts",2,3.01,15,15
+"STU0105","Liberal Arts",3,3.24,15,15
+"STU0105","Liberal Arts",4,2.71,15,15
+"STU0105","Liberal Arts",5,4,15,15
+"STU0105","Liberal Arts",6,4,15,15
+"STU0105","Liberal Arts",7,3.89,15,15
+"STU0105","Liberal Arts",8,3.03,15,15
+"STU0106","Liberal Arts",1,3.33,15,15
+"STU0106","Liberal Arts",2,3.53,15,15
+"STU0106","Liberal Arts",3,3.66,15,15
+"STU0106","Liberal Arts",4,3.9,15,15
+"STU0106","Liberal Arts",5,3.41,15,15
+"STU0106","Liberal Arts",6,2.83,15,15
+"STU0106","Liberal Arts",7,2.74,15,15
+"STU0106","Liberal Arts",8,2.93,15,15
+"STU0107","Liberal Arts",1,3.85,15,15
+"STU0107","Liberal Arts",2,4,15,15
+"STU0107","Liberal Arts",3,3.62,15,15
+"STU0107","Liberal Arts",4,4,15,15
+"STU0107","Liberal Arts",5,4,15,15
+"STU0107","Liberal Arts",6,3.85,15,15
+"STU0107","Liberal Arts",7,4,15,15
+"STU0107","Liberal Arts",8,4,15,15
+"STU0108","Liberal Arts",1,4,15,15
+"STU0108","Liberal Arts",2,3.91,15,15
+"STU0108","Liberal Arts",3,3.8,15,15
+"STU0108","Liberal Arts",4,3.68,15,15
+"STU0108","Liberal Arts",5,3.64,15,15
+"STU0108","Liberal Arts",6,3.72,15,15
+"STU0108","Liberal Arts",7,4,15,15
+"STU0108","Liberal Arts",8,3.8,15,15
+"STU0109","Business",1,2.38,15,15
+"STU0109","Business",2,2.51,15,15
+"STU0109","Business",3,2.99,15,15
+"STU0109","Business",4,2.84,15,15
+"STU0109","Business",5,2.51,15,15
+"STU0109","Business",6,3.33,15,15
+"STU0109","Business",7,2.84,15,15
+"STU0109","Business",8,2.18,15,15
+"STU0110","Engineering",1,2.47,15,15
+"STU0110","Engineering",2,3.11,15,15
+"STU0110","Engineering",3,2.36,15,15
+"STU0110","Engineering",4,1.92,15,15
+"STU0110","Engineering",5,2.65,15,15
+"STU0110","Engineering",6,3,15,15
+"STU0110","Engineering",7,3.23,15,15
+"STU0110","Engineering",8,2.67,15,15
+"STU0111","Business",1,2.39,15,15
+"STU0111","Business",2,2.65,15,15
+"STU0111","Business",3,2.29,15,15
+"STU0111","Business",4,2.73,15,15
+"STU0111","Business",5,2.13,15,15
+"STU0111","Business",6,2.03,15,15
+"STU0111","Business",7,2.89,15,15
+"STU0111","Business",8,1.56,15,15
+"STU0112","Liberal Arts",1,2.6,15,15
+"STU0112","Liberal Arts",2,2.29,15,15
+"STU0112","Liberal Arts",3,2.28,15,15
+"STU0112","Liberal Arts",4,2.14,15,15
+"STU0112","Liberal Arts",5,3.04,15,15
+"STU0112","Liberal Arts",6,3,15,15
+"STU0112","Liberal Arts",7,2.12,15,15
+"STU0112","Liberal Arts",8,2.85,15,15
+"STU0113","Liberal Arts",1,4,15,15
+"STU0113","Liberal Arts",2,2.81,15,15
+"STU0113","Liberal Arts",3,3.53,15,15
+"STU0113","Liberal Arts",4,4,15,15
+"STU0113","Liberal Arts",5,3.2,15,15
+"STU0113","Liberal Arts",6,3.55,15,15
+"STU0113","Liberal Arts",7,3.6,15,15
+"STU0113","Liberal Arts",8,4,15,15
+"STU0114","Business",1,2.96,15,15
+"STU0114","Business",2,3.32,15,15
+"STU0115","Business",1,3.52,15,15
+"STU0115","Business",2,3.72,15,15
+"STU0115","Business",3,3.71,15,15
+"STU0115","Business",4,3.49,15,15
+"STU0115","Business",5,3.9,15,15
+"STU0115","Business",6,3.86,15,15
+"STU0115","Business",7,3.55,15,15
+"STU0115","Business",8,4,15,15
+"STU0116","Business",1,3.93,15,15
+"STU0116","Business",2,3.52,15,15
+"STU0116","Business",3,3.63,15,15
+"STU0116","Business",4,3.33,15,15
+"STU0116","Business",5,2.99,15,15
+"STU0116","Business",6,3.04,15,15
+"STU0116","Business",7,3.89,15,15
+"STU0116","Business",8,3.37,15,15
+"STU0117","Engineering",1,2.82,15,15
+"STU0117","Engineering",2,2.95,15,15
+"STU0117","Engineering",3,3.52,15,15
+"STU0117","Engineering",4,2.86,15,15
+"STU0117","Engineering",5,3.32,15,15
+"STU0117","Engineering",6,3.63,15,15
+"STU0117","Engineering",7,3.62,15,15
+"STU0117","Engineering",8,3.08,15,15
+"STU0118","Business",1,2.58,15,15
+"STU0118","Business",2,2.46,15,15
+"STU0118","Business",3,3.73,15,15
+"STU0118","Business",4,3.26,15,15
+"STU0118","Business",5,2.57,15,15
+"STU0118","Business",6,3.66,15,15
+"STU0118","Business",7,3.37,15,15
+"STU0118","Business",8,3.15,15,15
+"STU0119","Business",1,2.52,15,15
+"STU0119","Business",2,2.07,15,15
+"STU0119","Business",3,2.36,15,15
+"STU0119","Business",4,1.83,15,15
+"STU0119","Business",5,1.73,15,15
+"STU0120","Liberal Arts",1,3.02,15,15
+"STU0120","Liberal Arts",2,2.91,15,15
+"STU0120","Liberal Arts",3,4,15,15
+"STU0120","Liberal Arts",4,2.72,15,15
+"STU0120","Liberal Arts",5,3.55,15,15
+"STU0120","Liberal Arts",6,2.86,15,15
+"STU0120","Liberal Arts",7,2.6,15,15
+"STU0120","Liberal Arts",8,3.01,15,15
+"STU0121","Business",1,3,15,15
+"STU0121","Business",2,1.63,15,15
+"STU0121","Business",3,2.89,15,15
+"STU0121","Business",4,2.95,15,15
+"STU0121","Business",5,3.09,15,15
+"STU0121","Business",6,2.3,15,15
+"STU0121","Business",7,2.67,15,15
+"STU0121","Business",8,2.72,15,15
+"STU0122","Business",1,3.23,15,15
+"STU0122","Business",2,3.84,15,15
+"STU0122","Business",3,3.41,15,15
+"STU0122","Business",4,3.77,15,15
+"STU0122","Business",5,3.58,15,15
+"STU0122","Business",6,3.37,15,15
+"STU0122","Business",7,2.86,15,15
+"STU0122","Business",8,4,15,15
+"STU0123","Business",1,3.64,15,15
+"STU0123","Business",2,3.12,15,15
+"STU0123","Business",3,3.56,15,15
+"STU0123","Business",4,3.26,15,15
+"STU0123","Business",5,3.35,15,15
+"STU0123","Business",6,3.78,15,15
+"STU0123","Business",7,3.63,15,15
+"STU0123","Business",8,3.61,15,15
+"STU0124","Business",1,3.97,15,15
+"STU0124","Business",2,3.63,15,15
+"STU0124","Business",3,3.3,15,15
+"STU0125","Liberal Arts",1,2.95,15,15
+"STU0125","Liberal Arts",2,2.85,15,15
+"STU0125","Liberal Arts",3,2.87,15,15
+"STU0125","Liberal Arts",4,1.64,15,15
+"STU0125","Liberal Arts",5,1.83,15,15
+"STU0126","Business",1,1.99,15,15
+"STU0126","Business",2,2.57,15,15
+"STU0126","Business",3,3.13,15,15
+"STU0126","Business",4,3.18,15,15
+"STU0126","Business",5,2.75,15,15
+"STU0126","Business",6,2.28,15,15
+"STU0126","Business",7,3.15,15,15
+"STU0126","Business",8,2.8,15,15
+"STU0127","Liberal Arts",1,3.3,15,15
+"STU0127","Liberal Arts",2,2.44,15,15
+"STU0127","Liberal Arts",3,2.74,15,15
+"STU0127","Liberal Arts",4,2.81,15,15
+"STU0127","Liberal Arts",5,3.32,15,15
+"STU0127","Liberal Arts",6,3.38,15,15
+"STU0127","Liberal Arts",7,2.67,15,15
+"STU0127","Liberal Arts",8,2.44,15,15
+"STU0129","Engineering",1,3.85,15,15
+"STU0129","Engineering",2,3.97,15,15
+"STU0129","Engineering",3,4,15,15
+"STU0129","Engineering",4,3.54,15,15
+"STU0129","Engineering",5,3.63,15,15
+"STU0129","Engineering",6,3.49,15,15
+"STU0129","Engineering",7,4,15,15
+"STU0129","Engineering",8,4,15,15
+"STU0130","Liberal Arts",1,3.12,15,15
+"STU0130","Liberal Arts",2,2.39,15,15
+"STU0130","Liberal Arts",3,2.77,15,15
+"STU0130","Liberal Arts",4,2.22,15,15
+"STU0130","Liberal Arts",5,3.11,15,15
+"STU0130","Liberal Arts",6,3.27,15,15
+"STU0130","Liberal Arts",7,2.76,15,15
+"STU0130","Liberal Arts",8,3.23,15,15
+"STU0131","Liberal Arts",1,1.69,15,15
+"STU0131","Liberal Arts",2,1.96,15,15
+"STU0132","Business",1,3.85,15,15
+"STU0132","Business",2,2.27,15,15
+"STU0132","Business",3,3.64,15,15
+"STU0132","Business",4,3.36,15,15
+"STU0132","Business",5,3.25,15,15
+"STU0132","Business",6,3.28,15,15
+"STU0132","Business",7,3.81,15,15
+"STU0132","Business",8,3.92,15,15
+"STU0133","Business",1,2.79,15,15
+"STU0133","Business",2,2,15,15
+"STU0133","Business",3,3.35,15,15
+"STU0133","Business",4,2.61,15,15
+"STU0133","Business",5,1.89,15,15
+"STU0133","Business",6,2.77,15,15
+"STU0133","Business",7,1.98,15,15
+"STU0133","Business",8,2.29,15,15
+"STU0134","Liberal Arts",1,0.81,15,9
+"STU0134","Liberal Arts",2,1.48,15,15
+"STU0135","Liberal Arts",1,2.6,15,15
+"STU0135","Liberal Arts",2,2.45,15,15
+"STU0135","Liberal Arts",3,2.78,15,15
+"STU0135","Liberal Arts",4,2.73,15,15
+"STU0135","Liberal Arts",5,3.94,15,15
+"STU0135","Liberal Arts",6,2.97,15,15
+"STU0135","Liberal Arts",7,2.91,15,15
+"STU0135","Liberal Arts",8,2.45,15,15
+"STU0136","Business",1,2.6,15,15
+"STU0136","Business",2,2.77,15,15
+"STU0136","Business",3,2.66,15,15
+"STU0136","Business",4,2.13,15,15
+"STU0136","Business",5,2.04,15,15
+"STU0136","Business",6,2.51,15,15
+"STU0136","Business",7,2.65,15,15
+"STU0136","Business",8,2.57,15,15
+"STU0137","Liberal Arts",1,3.13,15,15
+"STU0137","Liberal Arts",2,2.46,15,15
+"STU0137","Liberal Arts",3,2.7,15,15
+"STU0137","Liberal Arts",4,2.99,15,15
+"STU0137","Liberal Arts",5,1.88,15,15
+"STU0137","Liberal Arts",6,3.04,15,15
+"STU0137","Liberal Arts",7,2.32,15,15
+"STU0137","Liberal Arts",8,2.47,15,15
+"STU0138","Engineering",1,3.73,15,15
+"STU0138","Engineering",2,3.92,15,15
+"STU0138","Engineering",3,3.47,15,15
+"STU0138","Engineering",4,3.99,15,15
+"STU0138","Engineering",5,3.55,15,15
+"STU0138","Engineering",6,3.84,15,15
+"STU0138","Engineering",7,3.48,15,15
+"STU0138","Engineering",8,3.33,15,15
+"STU0139","Liberal Arts",1,3.44,15,15
+"STU0139","Liberal Arts",2,3.2,15,15
+"STU0139","Liberal Arts",3,3.95,15,15
+"STU0139","Liberal Arts",4,3.66,15,15
+"STU0139","Liberal Arts",5,3.56,15,15
+"STU0139","Liberal Arts",6,4,15,15
+"STU0139","Liberal Arts",7,3.31,15,15
+"STU0139","Liberal Arts",8,3.94,15,15
+"STU0140","Business",1,2.44,15,15
+"STU0140","Business",2,2.87,15,15
+"STU0141","Engineering",1,1.77,15,15
+"STU0141","Engineering",2,1.96,15,15
+"STU0142","Engineering",1,2.93,15,15
+"STU0142","Engineering",2,2.39,15,15
+"STU0142","Engineering",3,3.25,15,15
+"STU0142","Engineering",4,3.49,15,15
+"STU0142","Engineering",5,3.61,15,15
+"STU0142","Engineering",6,2.81,15,15
+"STU0142","Engineering",7,3.01,15,15
+"STU0142","Engineering",8,3.15,15,15
+"STU0143","Business",1,2.43,15,15
+"STU0143","Business",2,3.1,15,15
+"STU0143","Business",3,3.19,15,15
+"STU0143","Business",4,2.58,15,15
+"STU0143","Business",5,3.72,15,15
+"STU0143","Business",6,2.33,15,15
+"STU0143","Business",7,2.3,15,15
+"STU0143","Business",8,3.04,15,15
+"STU0144","Liberal Arts",1,2.52,15,15
+"STU0144","Liberal Arts",2,2.33,15,15
+"STU0144","Liberal Arts",3,3.39,15,15
+"STU0144","Liberal Arts",4,1.6,15,15
+"STU0144","Liberal Arts",5,2.54,15,15
+"STU0144","Liberal Arts",6,1.6,15,15
+"STU0144","Liberal Arts",7,3.37,15,15
+"STU0144","Liberal Arts",8,2.64,15,15
+"STU0145","Liberal Arts",1,2.23,15,15
+"STU0145","Liberal Arts",2,3.2,15,15
+"STU0145","Liberal Arts",3,2.95,15,15
+"STU0145","Liberal Arts",4,2.81,15,15
+"STU0145","Liberal Arts",5,3.31,15,15
+"STU0145","Liberal Arts",6,3.03,15,15
+"STU0145","Liberal Arts",7,2.94,15,15
+"STU0145","Liberal Arts",8,3.09,15,15
+"STU0146","Liberal Arts",1,1.81,15,15
+"STU0146","Liberal Arts",2,2.22,15,15
+"STU0146","Liberal Arts",3,2.74,15,15
+"STU0146","Liberal Arts",4,2.33,15,15
+"STU0146","Liberal Arts",5,3.1,15,15
+"STU0146","Liberal Arts",6,3.03,15,15
+"STU0146","Liberal Arts",7,2.84,15,15
+"STU0146","Liberal Arts",8,2.76,15,15
+"STU0147","Engineering",1,2.47,15,15
+"STU0147","Engineering",2,2.68,15,15
+"STU0147","Engineering",3,2.05,15,15
+"STU0147","Engineering",4,3.03,15,15
+"STU0147","Engineering",5,1.97,15,15
+"STU0147","Engineering",6,2.57,15,15
+"STU0147","Engineering",7,2.3,15,15
+"STU0147","Engineering",8,2.14,15,15
+"STU0148","Liberal Arts",1,2.32,15,15
+"STU0148","Liberal Arts",2,2.08,15,15
+"STU0148","Liberal Arts",3,2.73,15,15
+"STU0148","Liberal Arts",4,2.3,15,15
+"STU0148","Liberal Arts",5,2.45,15,15
+"STU0148","Liberal Arts",6,2.43,15,15
+"STU0148","Liberal Arts",7,1.49,15,15
+"STU0148","Liberal Arts",8,2.06,15,15
+"STU0149","Engineering",1,3.84,15,15
+"STU0149","Engineering",2,3.73,15,15
+"STU0149","Engineering",3,3.8,15,15
+"STU0149","Engineering",4,3.25,15,15
+"STU0149","Engineering",5,3.52,15,15
+"STU0149","Engineering",6,3.83,15,15
+"STU0149","Engineering",7,3.22,15,15
+"STU0149","Engineering",8,3.64,15,15
+"STU0150","Engineering",1,2.25,15,15
+"STU0150","Engineering",2,2.63,15,15
+"STU0150","Engineering",3,2.32,15,15
+"STU0150","Engineering",4,2.27,15,15
+"STU0151","Liberal Arts",1,2.89,15,15
+"STU0151","Liberal Arts",2,2.93,15,15
+"STU0151","Liberal Arts",3,3.37,15,15
+"STU0151","Liberal Arts",4,2.08,15,15
+"STU0151","Liberal Arts",5,2.87,15,15
+"STU0151","Liberal Arts",6,2.71,15,15
+"STU0151","Liberal Arts",7,2.97,15,15
+"STU0151","Liberal Arts",8,2.91,15,15
+"STU0152","Engineering",1,3.61,15,15
+"STU0152","Engineering",2,3.23,15,15
+"STU0152","Engineering",3,3.05,15,15
+"STU0152","Engineering",4,3.36,15,15
+"STU0152","Engineering",5,2.42,15,15
+"STU0152","Engineering",6,2.74,15,15
+"STU0152","Engineering",7,3.12,15,15
+"STU0152","Engineering",8,3,15,15
+"STU0153","Liberal Arts",1,3.22,15,15
+"STU0153","Liberal Arts",2,2.49,15,15
+"STU0153","Liberal Arts",3,2.33,15,15
+"STU0153","Liberal Arts",4,3.13,15,15
+"STU0153","Liberal Arts",5,3.24,15,15
+"STU0153","Liberal Arts",6,2.89,15,15
+"STU0153","Liberal Arts",7,2.83,15,15
+"STU0153","Liberal Arts",8,3.12,15,15
+"STU0154","Business",1,3.44,15,15
+"STU0154","Business",2,4,15,15
+"STU0154","Business",3,3.99,15,15
+"STU0154","Business",4,3.84,15,15
+"STU0154","Business",5,3.98,15,15
+"STU0154","Business",6,3.2,15,15
+"STU0154","Business",7,3.96,15,15
+"STU0154","Business",8,3.69,15,15
+"STU0155","Business",1,2.2,15,15
+"STU0155","Business",2,2.31,15,15
+"STU0156","Liberal Arts",1,3.07,15,15
+"STU0156","Liberal Arts",2,4,15,15
+"STU0156","Liberal Arts",3,3.92,15,15
+"STU0156","Liberal Arts",4,3.58,15,15
+"STU0157","Engineering",1,2.84,15,15
+"STU0157","Engineering",2,2.61,15,15
+"STU0157","Engineering",3,2.67,15,15
+"STU0157","Engineering",4,2.92,15,15
+"STU0157","Engineering",5,3.18,15,15
+"STU0157","Engineering",6,2.63,15,15
+"STU0157","Engineering",7,2.88,15,15
+"STU0157","Engineering",8,3.37,15,15
+"STU0158","Engineering",1,2.91,15,15
+"STU0158","Engineering",2,3.08,15,15
+"STU0158","Engineering",3,2.47,15,15
+"STU0158","Engineering",4,2.55,15,15
+"STU0158","Engineering",5,2.87,15,15
+"STU0158","Engineering",6,2.62,15,15
+"STU0158","Engineering",7,2.51,15,15
+"STU0158","Engineering",8,2.58,15,15
+"STU0159","Engineering",1,4,15,15
+"STU0159","Engineering",2,4,15,15
+"STU0159","Engineering",3,3.5,15,15
+"STU0159","Engineering",4,3.88,15,15
+"STU0159","Engineering",5,4,15,15
+"STU0159","Engineering",6,3.63,15,15
+"STU0159","Engineering",7,3.87,15,15
+"STU0159","Engineering",8,3.39,15,15
+"STU0160","Business",1,3.13,15,15
+"STU0160","Business",2,2.64,15,15
+"STU0160","Business",3,3.1,15,15
+"STU0160","Business",4,2.51,15,15
+"STU0160","Business",5,3.96,15,15
+"STU0160","Business",6,2.9,15,15
+"STU0160","Business",7,3.46,15,15
+"STU0160","Business",8,2.67,15,15
+"STU0161","Liberal Arts",1,3.28,15,15
+"STU0161","Liberal Arts",2,3.57,15,15
+"STU0161","Liberal Arts",3,4,15,15
+"STU0161","Liberal Arts",4,4,15,15
+"STU0161","Liberal Arts",5,3.93,15,15
+"STU0161","Liberal Arts",6,4,15,15
+"STU0161","Liberal Arts",7,3.91,15,15
+"STU0161","Liberal Arts",8,3.98,15,15
+"STU0162","Business",1,2.73,15,15
+"STU0162","Business",2,2.77,15,15
+"STU0162","Business",3,3.14,15,15
+"STU0162","Business",4,2.78,15,15
+"STU0162","Business",5,3.31,15,15
+"STU0162","Business",6,2.88,15,15
+"STU0162","Business",7,3.1,15,15
+"STU0162","Business",8,3.11,15,15
+"STU0163","Business",1,3.5,15,15
+"STU0163","Business",2,3.43,15,15
+"STU0163","Business",3,2.89,15,15
+"STU0163","Business",4,3.71,15,15
+"STU0163","Business",5,3.59,15,15
+"STU0163","Business",6,3.12,15,15
+"STU0163","Business",7,4,15,15
+"STU0163","Business",8,3.51,15,15
+"STU0164","Engineering",1,3.75,15,15
+"STU0164","Engineering",2,3.55,15,15
+"STU0165","Business",1,4,15,15
+"STU0165","Business",2,4,15,15
+"STU0165","Business",3,3.91,15,15
+"STU0165","Business",4,3.8,15,15
+"STU0165","Business",5,4,15,15
+"STU0165","Business",6,4,15,15
+"STU0165","Business",7,3.89,15,15
+"STU0165","Business",8,3.85,15,15
+"STU0166","Engineering",1,2.15,15,15
+"STU0166","Engineering",2,2.49,15,15
+"STU0166","Engineering",3,3.39,15,15
+"STU0166","Engineering",4,3.35,15,15
+"STU0166","Engineering",5,2.52,15,15
+"STU0166","Engineering",6,3.58,15,15
+"STU0166","Engineering",7,3.19,15,15
+"STU0166","Engineering",8,2.85,15,15
+"STU0167","Business",1,3.91,15,15
+"STU0167","Business",2,2.99,15,15
+"STU0167","Business",3,3.22,15,15
+"STU0167","Business",4,3.61,15,15
+"STU0167","Business",5,3.93,15,15
+"STU0167","Business",6,3.8,15,15
+"STU0167","Business",7,3.9,15,15
+"STU0167","Business",8,3.29,15,15
+"STU0168","Engineering",1,3.53,15,15
+"STU0168","Engineering",2,3.31,15,15
+"STU0168","Engineering",3,3.1,15,15
+"STU0168","Engineering",4,3.72,15,15
+"STU0168","Engineering",5,2.74,15,15
+"STU0168","Engineering",6,3.79,15,15
+"STU0168","Engineering",7,3.4,15,15
+"STU0168","Engineering",8,4,15,15
+"STU0169","Engineering",1,2.63,15,15
+"STU0169","Engineering",2,2.31,15,15
+"STU0169","Engineering",3,2.69,15,15
+"STU0169","Engineering",4,2.62,15,15
+"STU0169","Engineering",5,2.8,15,15
+"STU0169","Engineering",6,2.44,15,15
+"STU0169","Engineering",7,2.46,15,15
+"STU0169","Engineering",8,2.8,15,15
+"STU0170","Engineering",1,4,15,15
+"STU0170","Engineering",2,3.53,15,15
+"STU0170","Engineering",3,3.72,15,15
+"STU0170","Engineering",4,4,15,15
+"STU0170","Engineering",5,3.9,15,15
+"STU0170","Engineering",6,3.74,15,15
+"STU0170","Engineering",7,4,15,15
+"STU0170","Engineering",8,3.64,15,15
+"STU0171","Liberal Arts",1,2.78,15,15
+"STU0171","Liberal Arts",2,2.59,15,15
+"STU0171","Liberal Arts",3,2.55,15,15
+"STU0171","Liberal Arts",4,3.23,15,15
+"STU0171","Liberal Arts",5,1.88,15,15
+"STU0171","Liberal Arts",6,2.22,15,15
+"STU0171","Liberal Arts",7,1.81,15,15
+"STU0171","Liberal Arts",8,1.91,15,15
+"STU0172","Business",1,2.18,15,15
+"STU0172","Business",2,1.88,15,15
+"STU0172","Business",3,1.44,15,15
+"STU0173","Business",1,1.33,15,15
+"STU0173","Business",2,1.89,15,15
+"STU0174","Business",1,3.17,15,15
+"STU0174","Business",2,4,15,15
+"STU0175","Business",1,3.23,15,15
+"STU0175","Business",2,3.68,15,15
+"STU0175","Business",3,2.71,15,15
+"STU0175","Business",4,3.77,15,15
+"STU0175","Business",5,3.52,15,15
+"STU0175","Business",6,3.47,15,15
+"STU0175","Business",7,3.83,15,15
+"STU0175","Business",8,3.03,15,15
+"STU0177","Liberal Arts",1,2.62,15,15
+"STU0177","Liberal Arts",2,2.53,15,15
+"STU0177","Liberal Arts",3,2.78,15,15
+"STU0177","Liberal Arts",4,2.22,15,15
+"STU0177","Liberal Arts",5,3,15,15
+"STU0177","Liberal Arts",6,2.44,15,15
+"STU0177","Liberal Arts",7,2.46,15,15
+"STU0177","Liberal Arts",8,2.07,15,15
+"STU0178","Business",1,3.18,15,15
+"STU0178","Business",2,2.92,15,15
+"STU0178","Business",3,2.98,15,15
+"STU0178","Business",4,3.01,15,15
+"STU0178","Business",5,3.18,15,15
+"STU0178","Business",6,2.97,15,15
+"STU0178","Business",7,3.89,15,15
+"STU0178","Business",8,3.37,15,15
+"STU0179","Liberal Arts",1,3.1,15,15
+"STU0179","Liberal Arts",2,3.92,15,15
+"STU0179","Liberal Arts",3,3.54,15,15
+"STU0179","Liberal Arts",4,3.78,15,15
+"STU0179","Liberal Arts",5,3.94,15,15
+"STU0179","Liberal Arts",6,4,15,15
+"STU0179","Liberal Arts",7,3.7,15,15
+"STU0179","Liberal Arts",8,4,15,15
+"STU0180","Liberal Arts",1,2.11,15,15
+"STU0180","Liberal Arts",2,2.45,15,15
+"STU0180","Liberal Arts",3,2.53,15,15
+"STU0180","Liberal Arts",4,2.42,15,15
+"STU0180","Liberal Arts",5,2.96,15,15
+"STU0180","Liberal Arts",6,2.97,15,15
+"STU0180","Liberal Arts",7,2.12,15,15
+"STU0180","Liberal Arts",8,2.65,15,15
+"STU0181","Liberal Arts",1,4,15,15
+"STU0181","Liberal Arts",2,4,15,15
+"STU0182","Liberal Arts",1,3.64,15,15
+"STU0182","Liberal Arts",2,4,15,15
+"STU0182","Liberal Arts",3,3.61,15,15
+"STU0182","Liberal Arts",4,4,15,15
+"STU0182","Liberal Arts",5,4,15,15
+"STU0182","Liberal Arts",6,4,15,15
+"STU0182","Liberal Arts",7,4,15,15
+"STU0182","Liberal Arts",8,3.99,15,15
+"STU0183","Engineering",1,4,15,15
+"STU0183","Engineering",2,4,15,15
+"STU0183","Engineering",3,4,15,15
+"STU0183","Engineering",4,3.22,15,15
+"STU0183","Engineering",5,3.47,15,15
+"STU0183","Engineering",6,4,15,15
+"STU0183","Engineering",7,3.78,15,15
+"STU0183","Engineering",8,3.87,15,15
+"STU0184","Engineering",1,3.5,15,15
+"STU0184","Engineering",2,2.84,15,15
+"STU0184","Engineering",3,2.57,15,15
+"STU0184","Engineering",4,2.4,15,15
+"STU0184","Engineering",5,2.96,15,15
+"STU0184","Engineering",6,2.86,15,15
+"STU0184","Engineering",7,3.25,15,15
+"STU0184","Engineering",8,2.58,15,15
+"STU0185","Liberal Arts",1,1.88,15,15
+"STU0185","Liberal Arts",2,2.29,15,15
+"STU0186","Liberal Arts",1,2.84,15,15
+"STU0186","Liberal Arts",2,2.53,15,15
+"STU0186","Liberal Arts",3,2.24,15,15
+"STU0186","Liberal Arts",4,2.6,15,15
+"STU0186","Liberal Arts",5,2.36,15,15
+"STU0186","Liberal Arts",6,3.03,15,15
+"STU0186","Liberal Arts",7,2.74,15,15
+"STU0186","Liberal Arts",8,2.46,15,15
+"STU0187","Liberal Arts",1,2.08,15,15
+"STU0187","Liberal Arts",2,2.38,15,15
+"STU0187","Liberal Arts",3,1.64,15,15
+"STU0187","Liberal Arts",4,2.89,15,15
+"STU0187","Liberal Arts",5,3.36,15,15
+"STU0187","Liberal Arts",6,2.68,15,15
+"STU0187","Liberal Arts",7,3.29,15,15
+"STU0187","Liberal Arts",8,2.74,15,15
+"STU0188","Liberal Arts",1,3.56,15,15
+"STU0188","Liberal Arts",2,2.96,15,15
+"STU0188","Liberal Arts",3,3.52,15,15
+"STU0188","Liberal Arts",4,2.86,15,15
+"STU0188","Liberal Arts",5,3.3,15,15
+"STU0188","Liberal Arts",6,3.82,15,15
+"STU0188","Liberal Arts",7,3.54,15,15
+"STU0188","Liberal Arts",8,3.48,15,15
+"STU0189","Engineering",1,2.15,15,15
+"STU0189","Engineering",2,2.35,15,15
+"STU0189","Engineering",3,2.72,15,15
+"STU0189","Engineering",4,2.46,15,15
+"STU0189","Engineering",5,2.58,15,15
+"STU0189","Engineering",6,1.64,15,15
+"STU0189","Engineering",7,2.35,15,15
+"STU0189","Engineering",8,1.92,15,15
+"STU0190","Engineering",1,4,15,15
+"STU0190","Engineering",2,3.7,15,15
+"STU0190","Engineering",3,4,15,15
+"STU0191","Engineering",1,3.42,15,15
+"STU0191","Engineering",2,3.94,15,15
+"STU0191","Engineering",3,3.76,15,15
+"STU0191","Engineering",4,3.96,15,15
+"STU0191","Engineering",5,3.87,15,15
+"STU0191","Engineering",6,4,15,15
+"STU0191","Engineering",7,4,15,15
+"STU0191","Engineering",8,4,15,15
+"STU0192","Liberal Arts",1,3.01,15,15
+"STU0192","Liberal Arts",2,2.3,15,15
+"STU0192","Liberal Arts",3,2.51,15,15
+"STU0192","Liberal Arts",4,2.71,15,15
+"STU0192","Liberal Arts",5,2.58,15,15
+"STU0192","Liberal Arts",6,3.14,15,15
+"STU0192","Liberal Arts",7,2.41,15,15
+"STU0192","Liberal Arts",8,3.03,15,15
+"STU0193","Engineering",1,1.49,15,15
+"STU0193","Engineering",2,1.98,15,15
+"STU0194","Engineering",1,2.28,15,15
+"STU0194","Engineering",2,2.32,15,15
+"STU0194","Engineering",3,2.54,15,15
+"STU0194","Engineering",4,2.51,15,15
+"STU0194","Engineering",5,2.23,15,15
+"STU0194","Engineering",6,2.46,15,15
+"STU0194","Engineering",7,2.56,15,15
+"STU0194","Engineering",8,2.58,15,15
+"STU0195","Engineering",1,4,15,15
+"STU0195","Engineering",2,3.83,15,15
+"STU0195","Engineering",3,3.94,15,15
+"STU0195","Engineering",4,4,15,15
+"STU0195","Engineering",5,3.67,15,15
+"STU0195","Engineering",6,3.79,15,15
+"STU0195","Engineering",7,3.59,15,15
+"STU0195","Engineering",8,4,15,15
+"STU0196","Engineering",1,2.87,15,15
+"STU0196","Engineering",2,3.25,15,15
+"STU0196","Engineering",3,3.58,15,15
+"STU0196","Engineering",4,2.51,15,15
+"STU0196","Engineering",5,2.47,15,15
+"STU0196","Engineering",6,3.24,15,15
+"STU0196","Engineering",7,2.57,15,15
+"STU0196","Engineering",8,2.99,15,15
+"STU0197","Business",1,0.9,15,9
+"STU0197","Business",2,1.65,15,15
+"STU0198","Engineering",1,2.93,15,15
+"STU0198","Engineering",2,3.28,15,15
+"STU0198","Engineering",3,3.75,15,15
+"STU0198","Engineering",4,4,15,15
+"STU0198","Engineering",5,3.71,15,15
+"STU0198","Engineering",6,3.78,15,15
+"STU0198","Engineering",7,3.41,15,15
+"STU0198","Engineering",8,3.27,15,15
+"STU0199","Liberal Arts",1,3.26,15,15
+"STU0199","Liberal Arts",2,2.62,15,15
+"STU0199","Liberal Arts",3,2.85,15,15
+"STU0199","Liberal Arts",4,3.75,15,15
+"STU0199","Liberal Arts",5,3.04,15,15
+"STU0199","Liberal Arts",6,3.15,15,15
+"STU0199","Liberal Arts",7,3.51,15,15
+"STU0199","Liberal Arts",8,3.38,15,15
+"STU0200","Liberal Arts",1,3.16,15,15
+"STU0200","Liberal Arts",2,2.64,15,15
+"STU0200","Liberal Arts",3,2.76,15,15
+"STU0200","Liberal Arts",4,2.35,15,15
+"STU0200","Liberal Arts",5,1.83,15,15
+"STU0200","Liberal Arts",6,2.49,15,15
+"STU0200","Liberal Arts",7,2.63,15,15
+"STU0200","Liberal Arts",8,2.19,15,15
+"STU0201","Liberal Arts",1,2.65,15,15
+"STU0201","Liberal Arts",2,3,15,15
+"STU0201","Liberal Arts",3,2.55,15,15
+"STU0201","Liberal Arts",4,2.49,15,15
+"STU0201","Liberal Arts",5,2.52,15,15
+"STU0201","Liberal Arts",6,3.47,15,15
+"STU0201","Liberal Arts",7,3.51,15,15
+"STU0201","Liberal Arts",8,2.09,15,15
+"STU0202","Business",1,3.44,15,15
+"STU0202","Business",2,3.56,15,15
+"STU0202","Business",3,3.16,15,15
+"STU0202","Business",4,2.63,15,15
+"STU0202","Business",5,2.81,15,15
+"STU0202","Business",6,2.91,15,15
+"STU0202","Business",7,2.71,15,15
+"STU0202","Business",8,3.06,15,15
+"STU0203","Liberal Arts",1,1.77,15,15
+"STU0203","Liberal Arts",2,3.42,15,15
+"STU0203","Liberal Arts",3,2.44,15,15
+"STU0203","Liberal Arts",4,3.21,15,15
+"STU0203","Liberal Arts",5,3.38,15,15
+"STU0203","Liberal Arts",6,2.19,15,15
+"STU0203","Liberal Arts",7,2.9,15,15
+"STU0203","Liberal Arts",8,3.08,15,15
+"STU0204","Business",1,2.64,15,15
+"STU0204","Business",2,2.94,15,15
+"STU0204","Business",3,3.26,15,15
+"STU0204","Business",4,2.82,15,15
+"STU0204","Business",5,2.73,15,15
+"STU0204","Business",6,2.39,15,15
+"STU0204","Business",7,2.2,15,15
+"STU0204","Business",8,3.44,15,15
+"STU0205","Engineering",1,1.15,15,15
+"STU0205","Engineering",2,1.2,15,15
+"STU0206","Business",1,3.13,15,15
+"STU0206","Business",2,3.15,15,15
+"STU0206","Business",3,2.42,15,15
+"STU0206","Business",4,3.46,15,15
+"STU0206","Business",5,2.52,15,15
+"STU0206","Business",6,2.92,15,15
+"STU0206","Business",7,2.38,15,15
+"STU0206","Business",8,2.73,15,15
+"STU0207","Liberal Arts",1,3.64,15,15
+"STU0207","Liberal Arts",2,3.78,15,15
+"STU0207","Liberal Arts",3,4,15,15
+"STU0207","Liberal Arts",4,4,15,15
+"STU0207","Liberal Arts",5,4,15,15
+"STU0207","Liberal Arts",6,4,15,15
+"STU0207","Liberal Arts",7,4,15,15
+"STU0207","Liberal Arts",8,4,15,15
+"STU0208","Business",1,3.67,15,15
+"STU0208","Business",2,4,15,15
+"STU0208","Business",3,2.93,15,15
+"STU0208","Business",4,2.88,15,15
+"STU0208","Business",5,3.68,15,15
+"STU0208","Business",6,3.41,15,15
+"STU0208","Business",7,3.03,15,15
+"STU0208","Business",8,4,15,15
+"STU0209","Engineering",1,4,15,15
+"STU0209","Engineering",2,3.41,15,15
+"STU0209","Engineering",3,4,15,15
+"STU0209","Engineering",4,4,15,15
+"STU0209","Engineering",5,4,15,15
+"STU0209","Engineering",6,4,15,15
+"STU0209","Engineering",7,3.92,15,15
+"STU0209","Engineering",8,4,15,15
+"STU0210","Engineering",1,3.63,15,15
+"STU0210","Engineering",2,3.31,15,15
+"STU0210","Engineering",3,3.08,15,15
+"STU0210","Engineering",4,3.6,15,15
+"STU0210","Engineering",5,3.39,15,15
+"STU0210","Engineering",6,3.93,15,15
+"STU0210","Engineering",7,3.63,15,15
+"STU0210","Engineering",8,3.59,15,15
+"STU0211","Business",1,2.69,15,15
+"STU0211","Business",2,2.2,15,15
+"STU0211","Business",3,2.33,15,15
+"STU0211","Business",4,2.03,15,15
+"STU0211","Business",5,2.78,15,15
+"STU0211","Business",6,2.35,15,15
+"STU0211","Business",7,2.51,15,15
+"STU0211","Business",8,2.24,15,15
+"STU0212","Business",1,3.36,15,15
+"STU0212","Business",2,3.75,15,15
+"STU0212","Business",3,3.01,15,15
+"STU0212","Business",4,3.49,15,15
+"STU0212","Business",5,3.14,15,15
+"STU0212","Business",6,3.52,15,15
+"STU0212","Business",7,3.14,15,15
+"STU0212","Business",8,4,15,15
+"STU0214","Engineering",1,3.6,15,15
+"STU0214","Engineering",2,3.39,15,15
+"STU0215","Business",1,4,15,15
+"STU0215","Business",2,4,15,15
+"STU0215","Business",3,3.8,15,15
+"STU0215","Business",4,3.41,15,15
+"STU0215","Business",5,4,15,15
+"STU0215","Business",6,3.74,15,15
+"STU0216","Liberal Arts",1,4,15,15
+"STU0216","Liberal Arts",2,3.87,15,15
+"STU0216","Liberal Arts",3,3.84,15,15
+"STU0216","Liberal Arts",4,4,15,15
+"STU0216","Liberal Arts",5,3.52,15,15
+"STU0216","Liberal Arts",6,3.29,15,15
+"STU0216","Liberal Arts",7,4,15,15
+"STU0216","Liberal Arts",8,3.26,15,15
+"STU0217","Business",1,2.81,15,15
+"STU0217","Business",2,3.31,15,15
+"STU0217","Business",3,3.86,15,15
+"STU0217","Business",4,2.83,15,15
+"STU0217","Business",5,3.2,15,15
+"STU0217","Business",6,3.06,15,15
+"STU0217","Business",7,3.24,15,15
+"STU0217","Business",8,3.64,15,15
+"STU0218","Business",1,2.04,15,15
+"STU0218","Business",2,2.27,15,15
+"STU0218","Business",3,1.6,15,15
+"STU0218","Business",4,2.36,15,15
+"STU0218","Business",5,2.78,15,15
+"STU0218","Business",6,2.71,15,15
+"STU0218","Business",7,1.98,15,15
+"STU0218","Business",8,2.14,15,15
+"STU0219","Business",1,2.85,15,15
+"STU0219","Business",2,2.46,15,15
+"STU0219","Business",3,3.13,15,15
+"STU0219","Business",4,2.6,15,15
+"STU0219","Business",5,2.75,15,15
+"STU0219","Business",6,2.35,15,15
+"STU0219","Business",7,1.79,15,15
+"STU0219","Business",8,2.78,15,15
+"STU0220","Liberal Arts",1,4,15,15
+"STU0220","Liberal Arts",2,3.78,15,15
+"STU0220","Liberal Arts",3,4,15,15
+"STU0220","Liberal Arts",4,3.91,15,15
+"STU0220","Liberal Arts",5,4,15,15
+"STU0220","Liberal Arts",6,4,15,15
+"STU0220","Liberal Arts",7,3.54,15,15
+"STU0220","Liberal Arts",8,3.96,15,15
+"STU0221","Business",1,3.82,15,15
+"STU0221","Business",2,4,15,15
+"STU0221","Business",3,4,15,15
+"STU0221","Business",4,4,15,15
+"STU0221","Business",5,4,15,15
+"STU0221","Business",6,3.74,15,15
+"STU0221","Business",7,4,15,15
+"STU0221","Business",8,4,15,15
+"STU0222","Engineering",1,2.4,15,15
+"STU0222","Engineering",2,2.2,15,15
+"STU0222","Engineering",3,2.56,15,15
+"STU0222","Engineering",4,1.97,15,15
+"STU0222","Engineering",5,2.73,15,15
+"STU0222","Engineering",6,2.59,15,15
+"STU0222","Engineering",7,1.83,15,15
+"STU0222","Engineering",8,2.8,15,15
+"STU0223","Business",1,3.02,15,15
+"STU0223","Business",2,2.59,15,15
+"STU0223","Business",3,3.38,15,15
+"STU0223","Business",4,4,15,15
+"STU0223","Business",5,2.75,15,15
+"STU0223","Business",6,2.94,15,15
+"STU0223","Business",7,2.92,15,15
+"STU0223","Business",8,3.02,15,15
+"STU0225","Engineering",1,3.23,15,15
+"STU0225","Engineering",2,2.44,15,15
+"STU0225","Engineering",3,2.82,15,15
+"STU0225","Engineering",4,2.72,15,15
+"STU0225","Engineering",5,3.56,15,15
+"STU0225","Engineering",6,3.56,15,15
+"STU0225","Engineering",7,3.59,15,15
+"STU0225","Engineering",8,3.42,15,15
+"STU0226","Liberal Arts",1,3.37,15,15
+"STU0226","Liberal Arts",2,4,15,15
+"STU0226","Liberal Arts",3,3.08,15,15
+"STU0226","Liberal Arts",4,3.29,15,15
+"STU0226","Liberal Arts",5,2.43,15,15
+"STU0226","Liberal Arts",6,2.68,15,15
+"STU0226","Liberal Arts",7,2.57,15,15
+"STU0226","Liberal Arts",8,3.1,15,15
+"STU0227","Engineering",1,2.47,15,15
+"STU0227","Engineering",2,2.39,15,15
+"STU0227","Engineering",3,1.96,15,15
+"STU0227","Engineering",4,2.54,15,15
+"STU0227","Engineering",5,2.36,15,15
+"STU0227","Engineering",6,1.45,15,15
+"STU0227","Engineering",7,2.58,15,15
+"STU0227","Engineering",8,2.54,15,15
+"STU0228","Engineering",1,4,15,15
+"STU0228","Engineering",2,3.65,15,15
+"STU0228","Engineering",3,4,15,15
+"STU0228","Engineering",4,3.19,15,15
+"STU0229","Engineering",1,3.37,15,15
+"STU0229","Engineering",2,2.92,15,15
+"STU0229","Engineering",3,3.14,15,15
+"STU0229","Engineering",4,2.37,15,15
+"STU0229","Engineering",5,3.14,15,15
+"STU0229","Engineering",6,2.89,15,15
+"STU0229","Engineering",7,3.17,15,15
+"STU0229","Engineering",8,2.49,15,15
+"STU0230","Engineering",1,3.29,15,15
+"STU0230","Engineering",2,3.19,15,15
+"STU0230","Engineering",3,3.42,15,15
+"STU0230","Engineering",4,3.58,15,15
+"STU0230","Engineering",5,3.92,15,15
+"STU0230","Engineering",6,4,15,15
+"STU0230","Engineering",7,3.15,15,15
+"STU0230","Engineering",8,2.98,15,15
+"STU0231","Business",1,3.28,15,15
+"STU0231","Business",2,2.51,15,15
+"STU0231","Business",3,3.28,15,15
+"STU0231","Business",4,3.38,15,15
+"STU0231","Business",5,3.51,15,15
+"STU0231","Business",6,2.9,15,15
+"STU0231","Business",7,2.96,15,15
+"STU0231","Business",8,3.21,15,15
+"STU0232","Engineering",1,2.78,15,15
+"STU0232","Engineering",2,3.25,15,15
+"STU0232","Engineering",3,3.02,15,15
+"STU0232","Engineering",4,2.83,15,15
+"STU0232","Engineering",5,2.41,15,15
+"STU0232","Engineering",6,3.67,15,15
+"STU0232","Engineering",7,3.2,15,15
+"STU0232","Engineering",8,3.64,15,15
+"STU0234","Engineering",1,4,15,15
+"STU0234","Engineering",2,3.37,15,15
+"STU0234","Engineering",3,3.61,15,15
+"STU0234","Engineering",4,3.73,15,15
+"STU0234","Engineering",5,3.41,15,15
+"STU0234","Engineering",6,3.81,15,15
+"STU0234","Engineering",7,3.66,15,15
+"STU0234","Engineering",8,3.75,15,15
+"STU0235","Liberal Arts",1,4,15,15
+"STU0235","Liberal Arts",2,4,15,15
+"STU0235","Liberal Arts",3,3.85,15,15
+"STU0235","Liberal Arts",4,3.29,15,15
+"STU0235","Liberal Arts",5,3.53,15,15
+"STU0235","Liberal Arts",6,3.5,15,15
+"STU0235","Liberal Arts",7,4,15,15
+"STU0235","Liberal Arts",8,4,15,15
+"STU0236","Liberal Arts",1,1.73,15,15
+"STU0236","Liberal Arts",2,0.97,15,9
+"STU0237","Engineering",1,3.29,15,15
+"STU0237","Engineering",2,3.63,15,15
+"STU0237","Engineering",3,3.7,15,15
+"STU0237","Engineering",4,4,15,15
+"STU0237","Engineering",5,4,15,15
+"STU0237","Engineering",6,3.73,15,15
+"STU0237","Engineering",7,3.04,15,15
+"STU0237","Engineering",8,3.23,15,15
+"STU0238","Liberal Arts",1,3.04,15,15
+"STU0238","Liberal Arts",2,2.97,15,15
+"STU0238","Liberal Arts",3,2.95,15,15
+"STU0238","Liberal Arts",4,2.78,15,15
+"STU0238","Liberal Arts",5,3.24,15,15
+"STU0238","Liberal Arts",6,3.14,15,15
+"STU0238","Liberal Arts",7,2.85,15,15
+"STU0238","Liberal Arts",8,2.87,15,15
+"STU0239","Business",1,2.8,15,15
+"STU0239","Business",2,2.61,15,15
+"STU0239","Business",3,2.92,15,15
+"STU0239","Business",4,2.54,15,15
+"STU0239","Business",5,2.64,15,15
+"STU0239","Business",6,2.54,15,15
+"STU0239","Business",7,2.82,15,15
+"STU0239","Business",8,2.81,15,15
+"STU0240","Business",1,3.05,15,15
+"STU0240","Business",2,2.92,15,15
+"STU0240","Business",3,2.47,15,15
+"STU0240","Business",4,2.35,15,15
+"STU0240","Business",5,2.44,15,15
+"STU0240","Business",6,2.32,15,15
+"STU0240","Business",7,2.45,15,15
+"STU0240","Business",8,2.84,15,15
+"STU0241","Engineering",1,3.69,15,15
+"STU0241","Engineering",2,4,15,15
+"STU0241","Engineering",3,3.49,15,15
+"STU0241","Engineering",4,3.12,15,15
+"STU0241","Engineering",5,4,15,15
+"STU0241","Engineering",6,4,15,15
+"STU0241","Engineering",7,4,15,15
+"STU0241","Engineering",8,4,15,15
+"STU0242","Business",1,2.93,15,15
+"STU0242","Business",2,2.38,15,15
+"STU0242","Business",3,3.38,15,15
+"STU0242","Business",4,3.77,15,15
+"STU0242","Business",5,3.51,15,15
+"STU0242","Business",6,2.37,15,15
+"STU0242","Business",7,3.87,15,15
+"STU0242","Business",8,2.48,15,15
+"STU0243","Engineering",1,3.74,15,15
+"STU0243","Engineering",2,3.38,15,15
+"STU0243","Engineering",3,2.78,15,15
+"STU0243","Engineering",4,2.76,15,15
+"STU0243","Engineering",5,2.68,15,15
+"STU0243","Engineering",6,3.01,15,15
+"STU0243","Engineering",7,2.43,15,15
+"STU0243","Engineering",8,2.54,15,15
+"STU0244","Engineering",1,4,15,15
+"STU0244","Engineering",2,3.02,15,15
+"STU0244","Engineering",3,3.62,15,15
+"STU0244","Engineering",4,3.04,15,15
+"STU0244","Engineering",5,3.09,15,15
+"STU0244","Engineering",6,4,15,15
+"STU0244","Engineering",7,3.51,15,15
+"STU0244","Engineering",8,3.51,15,15
+"STU0245","Business",1,1.83,15,15
+"STU0245","Business",2,2.78,15,15
+"STU0245","Business",3,2.82,15,15
+"STU0245","Business",4,3.17,15,15
+"STU0245","Business",5,3.24,15,15
+"STU0245","Business",6,2.04,15,15
+"STU0245","Business",7,2.75,15,15
+"STU0245","Business",8,3.12,15,15
+"STU0246","Business",1,3.32,15,15
+"STU0246","Business",2,4,15,15
+"STU0246","Business",3,3.5,15,15
+"STU0246","Business",4,3.24,15,15
+"STU0246","Business",5,3.45,15,15
+"STU0246","Business",6,4,15,15
+"STU0246","Business",7,3.24,15,15
+"STU0246","Business",8,3.14,15,15
+"STU0247","Engineering",1,4,15,15
+"STU0247","Engineering",2,3.96,15,15
+"STU0247","Engineering",3,3.65,15,15
+"STU0247","Engineering",4,3.91,15,15
+"STU0247","Engineering",5,4,15,15
+"STU0247","Engineering",6,3.84,15,15
+"STU0247","Engineering",7,4,15,15
+"STU0247","Engineering",8,4,15,15
+"STU0248","Engineering",1,3.25,15,15
+"STU0248","Engineering",2,3.47,15,15
+"STU0248","Engineering",3,2.71,15,15
+"STU0248","Engineering",4,2.6,15,15
+"STU0248","Engineering",5,2.5,15,15
+"STU0248","Engineering",6,2.67,15,15
+"STU0248","Engineering",7,3.03,15,15
+"STU0248","Engineering",8,3.09,15,15
+"STU0249","Business",1,2.39,15,15
+"STU0249","Business",2,3.17,15,15
+"STU0249","Business",3,2.4,15,15
+"STU0249","Business",4,2.48,15,15
+"STU0249","Business",5,2.37,15,15
+"STU0249","Business",6,2.69,15,15
+"STU0249","Business",7,2.27,15,15
+"STU0249","Business",8,2.03,15,15
+"STU0250","Liberal Arts",1,3.41,15,15
+"STU0250","Liberal Arts",2,3.13,15,15
+"STU0250","Liberal Arts",3,2.47,15,15
+"STU0250","Liberal Arts",4,2.82,15,15
+"STU0250","Liberal Arts",5,3.23,15,15
+"STU0250","Liberal Arts",6,3.15,15,15
+"STU0250","Liberal Arts",7,3.05,15,15
+"STU0250","Liberal Arts",8,2.56,15,15
+"STU0251","Engineering",1,2.24,15,15
+"STU0252","Engineering",1,3.29,15,15
+"STU0252","Engineering",2,3.08,15,15
+"STU0252","Engineering",3,3.82,15,15
+"STU0252","Engineering",4,2.66,15,15
+"STU0252","Engineering",5,2.77,15,15
+"STU0252","Engineering",6,3.84,15,15
+"STU0252","Engineering",7,3.6,15,15
+"STU0252","Engineering",8,3.39,15,15
+"STU0253","Engineering",1,3.26,15,15
+"STU0253","Engineering",2,3.03,15,15
+"STU0253","Engineering",3,3.11,15,15
+"STU0253","Engineering",4,3.38,15,15
+"STU0253","Engineering",5,3.27,15,15
+"STU0253","Engineering",6,3.47,15,15
+"STU0253","Engineering",7,3.82,15,15
+"STU0253","Engineering",8,3.04,15,15
+"STU0254","Business",1,4,15,15
+"STU0254","Business",2,4,15,15
+"STU0254","Business",3,4,15,15
+"STU0254","Business",4,4,15,15
+"STU0254","Business",5,3.37,15,15
+"STU0254","Business",6,4,15,15
+"STU0254","Business",7,3.87,15,15
+"STU0254","Business",8,3.44,15,15
+"STU0255","Engineering",1,3.68,15,15
+"STU0256","Liberal Arts",1,3.49,15,15
+"STU0256","Liberal Arts",2,3.88,15,15
+"STU0256","Liberal Arts",3,4,15,15
+"STU0256","Liberal Arts",4,4,15,15
+"STU0256","Liberal Arts",5,4,15,15
+"STU0256","Liberal Arts",6,4,15,15
+"STU0256","Liberal Arts",7,3.65,15,15
+"STU0256","Liberal Arts",8,3.89,15,15
+"STU0257","Engineering",1,2.36,15,15
+"STU0257","Engineering",2,2.32,15,15
+"STU0257","Engineering",3,2.33,15,15
+"STU0257","Engineering",4,2.19,15,15
+"STU0257","Engineering",5,2.76,15,15
+"STU0257","Engineering",6,2.12,15,15
+"STU0257","Engineering",7,1.62,15,15
+"STU0257","Engineering",8,2.61,15,15
+"STU0258","Business",1,3.63,15,15
+"STU0258","Business",2,3.94,15,15
+"STU0258","Business",3,3.2,15,15
+"STU0258","Business",4,3.37,15,15
+"STU0258","Business",5,3.4,15,15
+"STU0258","Business",6,4,15,15
+"STU0258","Business",7,4,15,15
+"STU0258","Business",8,2.87,15,15
+"STU0259","Business",1,3.04,15,15
+"STU0259","Business",2,3.06,15,15
+"STU0259","Business",3,2.7,15,15
+"STU0259","Business",4,3,15,15
+"STU0259","Business",5,2.63,15,15
+"STU0259","Business",6,3.3,15,15
+"STU0259","Business",7,3.32,15,15
+"STU0259","Business",8,2.93,15,15
+"STU0260","Business",1,3.97,15,15
+"STU0260","Business",2,2.62,15,15
+"STU0260","Business",3,2.9,15,15
+"STU0260","Business",4,2.87,15,15
+"STU0260","Business",5,2.9,15,15
+"STU0260","Business",6,3.53,15,15
+"STU0260","Business",7,3.11,15,15
+"STU0260","Business",8,3.07,15,15
+"STU0261","Liberal Arts",1,4,15,15
+"STU0261","Liberal Arts",2,4,15,15
+"STU0261","Liberal Arts",3,3.97,15,15
+"STU0261","Liberal Arts",4,4,15,15
+"STU0261","Liberal Arts",5,3.91,15,15
+"STU0261","Liberal Arts",6,3.68,15,15
+"STU0261","Liberal Arts",7,3.97,15,15
+"STU0261","Liberal Arts",8,3.14,15,15
+"STU0262","Engineering",1,3.17,15,15
+"STU0262","Engineering",2,3.79,15,15
+"STU0262","Engineering",3,3.74,15,15
+"STU0262","Engineering",4,3.14,15,15
+"STU0262","Engineering",5,3.3,15,15
+"STU0262","Engineering",6,3.08,15,15
+"STU0262","Engineering",7,3.43,15,15
+"STU0262","Engineering",8,3.4,15,15
+"STU0263","Engineering",1,3.73,15,15
+"STU0263","Engineering",2,3.58,15,15
+"STU0263","Engineering",3,3.32,15,15
+"STU0263","Engineering",4,4,15,15
+"STU0263","Engineering",5,3.84,15,15
+"STU0263","Engineering",6,4,15,15
+"STU0263","Engineering",7,3.66,15,15
+"STU0263","Engineering",8,4,15,15
+"STU0264","Liberal Arts",1,2.64,15,15
+"STU0264","Liberal Arts",2,2.67,15,15
+"STU0264","Liberal Arts",3,2.52,15,15
+"STU0264","Liberal Arts",4,3.38,15,15
+"STU0264","Liberal Arts",5,4,15,15
+"STU0264","Liberal Arts",6,3.18,15,15
+"STU0264","Liberal Arts",7,3.05,15,15
+"STU0264","Liberal Arts",8,2.31,15,15
+"STU0265","Business",1,2.53,15,15
+"STU0265","Business",2,2.14,15,15
+"STU0265","Business",3,2.08,15,15
+"STU0265","Business",4,1.76,15,15
+"STU0265","Business",5,1.82,15,15
+"STU0266","Engineering",1,1.29,15,15
+"STU0266","Engineering",2,1.2,15,15
+"STU0267","Liberal Arts",1,4,15,15
+"STU0267","Liberal Arts",2,3.36,15,15
+"STU0267","Liberal Arts",3,3.78,15,15
+"STU0267","Liberal Arts",4,3.83,15,15
+"STU0267","Liberal Arts",5,3.78,15,15
+"STU0267","Liberal Arts",6,4,15,15
+"STU0267","Liberal Arts",7,3.7,15,15
+"STU0267","Liberal Arts",8,4,15,15
+"STU0268","Engineering",1,1.6,15,15
+"STU0268","Engineering",2,2.42,15,15
+"STU0268","Engineering",3,2.24,15,15
+"STU0268","Engineering",4,2.29,15,15
+"STU0268","Engineering",5,2.26,15,15
+"STU0268","Engineering",6,1.84,15,15
+"STU0268","Engineering",7,1.81,15,15
+"STU0269","Liberal Arts",1,3.66,15,15
+"STU0269","Liberal Arts",2,3.78,15,15
+"STU0269","Liberal Arts",3,3.47,15,15
+"STU0269","Liberal Arts",4,3.87,15,15
+"STU0269","Liberal Arts",5,3.86,15,15
+"STU0269","Liberal Arts",6,3.77,15,15
+"STU0269","Liberal Arts",7,3.4,15,15
+"STU0269","Liberal Arts",8,4,15,15
+"STU0270","Liberal Arts",1,2.23,15,15
+"STU0270","Liberal Arts",2,2.53,15,15
+"STU0270","Liberal Arts",3,3.91,15,15
+"STU0270","Liberal Arts",4,3.04,15,15
+"STU0270","Liberal Arts",5,3.8,15,15
+"STU0270","Liberal Arts",6,3.02,15,15
+"STU0270","Liberal Arts",7,3.05,15,15
+"STU0270","Liberal Arts",8,3.02,15,15
+"STU0271","Engineering",1,3.78,15,15
+"STU0271","Engineering",2,3.01,15,15
+"STU0271","Engineering",3,3.95,15,15
+"STU0271","Engineering",4,4,15,15
+"STU0271","Engineering",5,3.31,15,15
+"STU0271","Engineering",6,4,15,15
+"STU0271","Engineering",7,3.39,15,15
+"STU0271","Engineering",8,3.84,15,15
+"STU0272","Liberal Arts",1,4,15,15
+"STU0272","Liberal Arts",2,3.65,15,15
+"STU0272","Liberal Arts",3,3.92,15,15
+"STU0272","Liberal Arts",4,4,15,15
+"STU0272","Liberal Arts",5,3.39,15,15
+"STU0272","Liberal Arts",6,4,15,15
+"STU0272","Liberal Arts",7,3.61,15,15
+"STU0272","Liberal Arts",8,4,15,15
+"STU0273","Business",1,2.71,15,15
+"STU0273","Business",2,2.3,15,15
+"STU0273","Business",3,3.28,15,15
+"STU0273","Business",4,2.88,15,15
+"STU0273","Business",5,2.89,15,15
+"STU0273","Business",6,2.31,15,15
+"STU0273","Business",7,2.24,15,15
+"STU0273","Business",8,2.5,15,15
+"STU0274","Engineering",1,3.18,15,15
+"STU0274","Engineering",2,2.83,15,15
+"STU0274","Engineering",3,2.46,15,15
+"STU0275","Liberal Arts",1,3.16,15,15
+"STU0275","Liberal Arts",2,2.74,15,15
+"STU0275","Liberal Arts",3,2.64,15,15
+"STU0275","Liberal Arts",4,3.46,15,15
+"STU0275","Liberal Arts",5,2.57,15,15
+"STU0275","Liberal Arts",6,2.57,15,15
+"STU0275","Liberal Arts",7,3.62,15,15
+"STU0275","Liberal Arts",8,2.83,15,15
+"STU0276","Engineering",1,3.93,15,15
+"STU0276","Engineering",2,4,15,15
+"STU0276","Engineering",3,4,15,15
+"STU0276","Engineering",4,4,15,15
+"STU0276","Engineering",5,3.91,15,15
+"STU0276","Engineering",6,3.92,15,15
+"STU0276","Engineering",7,4,15,15
+"STU0276","Engineering",8,4,15,15
+"STU0277","Engineering",1,2.34,15,15
+"STU0277","Engineering",2,2.16,15,15
+"STU0277","Engineering",3,2.73,15,15
+"STU0277","Engineering",4,2.83,15,15
+"STU0277","Engineering",5,2.62,15,15
+"STU0277","Engineering",6,2.77,15,15
+"STU0277","Engineering",7,2.76,15,15
+"STU0277","Engineering",8,2.98,15,15
+"STU0278","Business",1,2.62,15,15
+"STU0278","Business",2,2.91,15,15
+"STU0278","Business",3,2.79,15,15
+"STU0278","Business",4,3.45,15,15
+"STU0278","Business",5,2.82,15,15
+"STU0278","Business",6,2.9,15,15
+"STU0278","Business",7,2.89,15,15
+"STU0278","Business",8,2.71,15,15
+"STU0279","Business",1,3.41,15,15
+"STU0279","Business",2,3.33,15,15
+"STU0279","Business",3,3.14,15,15
+"STU0279","Business",4,3.47,15,15
+"STU0279","Business",5,3.83,15,15
+"STU0279","Business",6,2.95,15,15
+"STU0279","Business",7,3.11,15,15
+"STU0279","Business",8,3.67,15,15
+"STU0280","Business",1,3.5,15,15
+"STU0280","Business",2,3.02,15,15
+"STU0280","Business",3,4,15,15
+"STU0280","Business",4,3.55,15,15
+"STU0280","Business",5,4,15,15
+"STU0280","Business",6,3.85,15,15
+"STU0280","Business",7,3.71,15,15
+"STU0280","Business",8,3.94,15,15
+"STU0281","Business",1,3.66,15,15
+"STU0282","Engineering",1,3.09,15,15
+"STU0282","Engineering",2,2.59,15,15
+"STU0282","Engineering",3,2.95,15,15
+"STU0282","Engineering",4,2.88,15,15
+"STU0282","Engineering",5,4,15,15
+"STU0282","Engineering",6,3.68,15,15
+"STU0282","Engineering",7,3.05,15,15
+"STU0282","Engineering",8,2.87,15,15
+"STU0283","Engineering",1,3.27,15,15
+"STU0283","Engineering",2,2.66,15,15
+"STU0283","Engineering",3,3.85,15,15
+"STU0283","Engineering",4,3.31,15,15
+"STU0283","Engineering",5,3.09,15,15
+"STU0283","Engineering",6,3.53,15,15
+"STU0283","Engineering",7,3.54,15,15
+"STU0283","Engineering",8,3.7,15,15
+"STU0284","Liberal Arts",1,3.37,15,15
+"STU0284","Liberal Arts",2,2.82,15,15
+"STU0284","Liberal Arts",3,3.85,15,15
+"STU0284","Liberal Arts",4,3.11,15,15
+"STU0284","Liberal Arts",5,2.67,15,15
+"STU0284","Liberal Arts",6,2.85,15,15
+"STU0284","Liberal Arts",7,3.05,15,15
+"STU0284","Liberal Arts",8,3.4,15,15
+"STU0285","Engineering",1,1.83,15,15
+"STU0285","Engineering",2,2.64,15,15
+"STU0286","Engineering",1,3.63,15,15
+"STU0286","Engineering",2,4,15,15
+"STU0286","Engineering",3,4,15,15
+"STU0286","Engineering",4,3.3,15,15
+"STU0286","Engineering",5,3.87,15,15
+"STU0286","Engineering",6,4,15,15
+"STU0286","Engineering",7,4,15,15
+"STU0286","Engineering",8,4,15,15
+"STU0287","Business",1,2.35,15,15
+"STU0287","Business",2,1.56,15,15
+"STU0287","Business",3,1.61,15,15
+"STU0288","Engineering",1,3.31,15,15
+"STU0288","Engineering",2,3.33,15,15
+"STU0288","Engineering",3,3.87,15,15
+"STU0288","Engineering",4,4,15,15
+"STU0288","Engineering",5,3.97,15,15
+"STU0288","Engineering",6,3.09,15,15
+"STU0288","Engineering",7,3.98,15,15
+"STU0288","Engineering",8,3.41,15,15
+"STU0289","Engineering",1,2.37,15,15
+"STU0289","Engineering",2,2.86,15,15
+"STU0289","Engineering",3,2.28,15,15
+"STU0289","Engineering",4,3.54,15,15
+"STU0289","Engineering",5,3.3,15,15
+"STU0289","Engineering",6,3.27,15,15
+"STU0289","Engineering",7,4,15,15
+"STU0289","Engineering",8,3.61,15,15
+"STU0290","Engineering",1,3.16,15,15
+"STU0290","Engineering",2,3.64,15,15
+"STU0290","Engineering",3,2.92,15,15
+"STU0290","Engineering",4,2.69,15,15
+"STU0290","Engineering",5,3.13,15,15
+"STU0290","Engineering",6,3.58,15,15
+"STU0290","Engineering",7,4,15,15
+"STU0290","Engineering",8,3.57,15,15
+"STU0291","Liberal Arts",1,2.19,15,15
+"STU0291","Liberal Arts",2,2.95,15,15
+"STU0291","Liberal Arts",3,2.1,15,15
+"STU0291","Liberal Arts",4,2.98,15,15
+"STU0291","Liberal Arts",5,2.58,15,15
+"STU0291","Liberal Arts",6,2.27,15,15
+"STU0291","Liberal Arts",7,2.92,15,15
+"STU0291","Liberal Arts",8,1.98,15,15
+"STU0292","Liberal Arts",1,2.87,15,15
+"STU0292","Liberal Arts",2,3.68,15,15
+"STU0292","Liberal Arts",3,2.97,15,15
+"STU0292","Liberal Arts",4,2.61,15,15
+"STU0292","Liberal Arts",5,2.66,15,15
+"STU0292","Liberal Arts",6,3.13,15,15
+"STU0292","Liberal Arts",7,3.6,15,15
+"STU0292","Liberal Arts",8,3.05,15,15
+"STU0293","Engineering",1,4,15,15
+"STU0293","Engineering",2,4,15,15
+"STU0293","Engineering",3,3.66,15,15
+"STU0293","Engineering",4,4,15,15
+"STU0293","Engineering",5,3.51,15,15
+"STU0293","Engineering",6,3.69,15,15
+"STU0293","Engineering",7,3.89,15,15
+"STU0293","Engineering",8,3.43,15,15
+"STU0294","Business",1,2.73,15,15
+"STU0294","Business",2,3.12,15,15
+"STU0294","Business",3,2.69,15,15
+"STU0294","Business",4,2.59,15,15
+"STU0294","Business",5,2.31,15,15
+"STU0294","Business",6,3.04,15,15
+"STU0294","Business",7,2.94,15,15
+"STU0294","Business",8,3.29,15,15
+"STU0295","Engineering",1,3.33,15,15
+"STU0295","Engineering",2,3.49,15,15
+"STU0295","Engineering",3,3.11,15,15
+"STU0295","Engineering",4,2.79,15,15
+"STU0295","Engineering",5,2.54,15,15
+"STU0295","Engineering",6,3.22,15,15
+"STU0295","Engineering",7,2.99,15,15
+"STU0295","Engineering",8,3.08,15,15
+"STU0296","Engineering",1,3,15,15
+"STU0296","Engineering",2,1.52,15,15
+"STU0296","Engineering",3,3.12,15,15
+"STU0296","Engineering",4,2.38,15,15
+"STU0296","Engineering",5,2.19,15,15
+"STU0296","Engineering",6,2.43,15,15
+"STU0296","Engineering",7,3.23,15,15
+"STU0296","Engineering",8,1.93,15,15
+"STU0297","Liberal Arts",1,2.78,15,15
+"STU0297","Liberal Arts",2,2.86,15,15
+"STU0297","Liberal Arts",3,2.66,15,15
+"STU0297","Liberal Arts",4,2.68,15,15
+"STU0297","Liberal Arts",5,2.89,15,15
+"STU0297","Liberal Arts",6,2.61,15,15
+"STU0297","Liberal Arts",7,2.96,15,15
+"STU0297","Liberal Arts",8,3.16,15,15
+"STU0298","Business",1,3.08,15,15
+"STU0298","Business",2,2.76,15,15
+"STU0298","Business",3,3.4,15,15
+"STU0298","Business",4,3.01,15,15
+"STU0298","Business",5,3.38,15,15
+"STU0298","Business",6,2.94,15,15
+"STU0298","Business",7,2.97,15,15
+"STU0298","Business",8,3.3,15,15
+"STU0299","Engineering",1,2.31,15,15
+"STU0299","Engineering",2,2.46,15,15
+"STU0299","Engineering",3,1.8,15,15
+"STU0299","Engineering",4,2.35,15,15
+"STU0299","Engineering",5,1.51,15,15
+"STU0299","Engineering",6,2.32,15,15
+"STU0299","Engineering",7,1.29,15,15
+"STU0299","Engineering",8,1.76,15,15
+"STU0300","Engineering",1,3.98,15,15
+"STU0301","Business",1,3.07,15,15
+"STU0301","Business",2,3.88,15,15
+"STU0301","Business",3,2.42,15,15
+"STU0301","Business",4,2.96,15,15
+"STU0301","Business",5,2.74,15,15
+"STU0301","Business",6,2.83,15,15
+"STU0301","Business",7,3.45,15,15
+"STU0301","Business",8,3.44,15,15
+"STU0302","Business",1,4,15,15
+"STU0302","Business",2,4,15,15
+"STU0302","Business",3,3.63,15,15
+"STU0302","Business",4,3.39,15,15
+"STU0302","Business",5,4,15,15
+"STU0302","Business",6,3.55,15,15
+"STU0302","Business",7,4,15,15
+"STU0302","Business",8,3.64,15,15
+"STU0303","Engineering",1,3.59,15,15
+"STU0303","Engineering",2,3.91,15,15
+"STU0303","Engineering",3,4,15,15
+"STU0303","Engineering",4,3.53,15,15
+"STU0303","Engineering",5,3.95,15,15
+"STU0303","Engineering",6,4,15,15
+"STU0303","Engineering",7,3.37,15,15
+"STU0303","Engineering",8,3.49,15,15
+"STU0304","Engineering",1,3.68,15,15
+"STU0304","Engineering",2,3.87,15,15
+"STU0304","Engineering",3,4,15,15
+"STU0304","Engineering",4,3.44,15,15
+"STU0304","Engineering",5,4,15,15
+"STU0304","Engineering",6,4,15,15
+"STU0304","Engineering",7,4,15,15
+"STU0304","Engineering",8,3.36,15,15
+"STU0305","Liberal Arts",1,2.98,15,15
+"STU0305","Liberal Arts",2,1.92,15,15
+"STU0305","Liberal Arts",3,2.63,15,15
+"STU0305","Liberal Arts",4,2.33,15,15
+"STU0305","Liberal Arts",5,3.19,15,15
+"STU0305","Liberal Arts",6,1.69,15,15
+"STU0305","Liberal Arts",7,2.42,15,15
+"STU0305","Liberal Arts",8,2.03,15,15
+"STU0306","Liberal Arts",1,3.55,15,15
+"STU0306","Liberal Arts",2,3.9,15,15
+"STU0306","Liberal Arts",3,2.76,15,15
+"STU0306","Liberal Arts",4,3.46,15,15
+"STU0306","Liberal Arts",5,3.4,15,15
+"STU0306","Liberal Arts",6,3.8,15,15
+"STU0306","Liberal Arts",7,3.16,15,15
+"STU0306","Liberal Arts",8,3.99,15,15
+"STU0307","Business",1,3.09,15,15
+"STU0307","Business",2,3.22,15,15
+"STU0307","Business",3,2.49,15,15
+"STU0307","Business",4,2.89,15,15
+"STU0307","Business",5,2.73,15,15
+"STU0307","Business",6,3.24,15,15
+"STU0307","Business",7,2.61,15,15
+"STU0307","Business",8,2.59,15,15
+"STU0308","Engineering",1,2.56,15,15
+"STU0308","Engineering",2,2.92,15,15
+"STU0308","Engineering",3,2.44,15,15
+"STU0308","Engineering",4,2.75,15,15
+"STU0308","Engineering",5,2.9,15,15
+"STU0308","Engineering",6,3.13,15,15
+"STU0308","Engineering",7,3.04,15,15
+"STU0308","Engineering",8,2.97,15,15
+"STU0309","Engineering",1,2.79,15,15
+"STU0309","Engineering",2,2.92,15,15
+"STU0309","Engineering",3,3.34,15,15
+"STU0309","Engineering",4,2.73,15,15
+"STU0309","Engineering",5,3.26,15,15
+"STU0309","Engineering",6,3.39,15,15
+"STU0309","Engineering",7,2.48,15,15
+"STU0309","Engineering",8,3.05,15,15
+"STU0310","Engineering",1,3.98,15,15
+"STU0310","Engineering",2,3.25,15,15
+"STU0310","Engineering",3,3.19,15,15
+"STU0310","Engineering",4,2.99,15,15
+"STU0310","Engineering",5,3.18,15,15
+"STU0310","Engineering",6,3.46,15,15
+"STU0310","Engineering",7,3.57,15,15
+"STU0310","Engineering",8,3.11,15,15
+"STU0311","Engineering",1,3,15,15
+"STU0311","Engineering",2,2.91,15,15
+"STU0311","Engineering",3,3.41,15,15
+"STU0311","Engineering",4,2.3,15,15
+"STU0311","Engineering",5,3.5,15,15
+"STU0311","Engineering",6,3.25,15,15
+"STU0311","Engineering",7,3.22,15,15
+"STU0311","Engineering",8,2.85,15,15
+"STU0312","Liberal Arts",1,1.85,15,15
+"STU0312","Liberal Arts",2,1.92,15,15
+"STU0313","Business",1,3.72,15,15
+"STU0313","Business",2,4,15,15
+"STU0313","Business",3,3.45,15,15
+"STU0313","Business",4,3.53,15,15
+"STU0313","Business",5,3.64,15,15
+"STU0313","Business",6,3.83,15,15
+"STU0313","Business",7,3.72,15,15
+"STU0313","Business",8,4,15,15
+"STU0314","Engineering",1,3.5,15,15
+"STU0314","Engineering",2,4,15,15
+"STU0314","Engineering",3,3.18,15,15
+"STU0314","Engineering",4,3.52,15,15
+"STU0314","Engineering",5,2.71,15,15
+"STU0314","Engineering",6,3.04,15,15
+"STU0314","Engineering",7,3.57,15,15
+"STU0314","Engineering",8,3.78,15,15
+"STU0315","Engineering",1,1.91,15,15
+"STU0315","Engineering",2,3.09,15,15
+"STU0315","Engineering",3,2.75,15,15
+"STU0315","Engineering",4,3.19,15,15
+"STU0315","Engineering",5,2.29,15,15
+"STU0315","Engineering",6,2.52,15,15
+"STU0315","Engineering",7,1.71,15,15
+"STU0315","Engineering",8,2.97,15,15
+"STU0316","Liberal Arts",1,2.58,15,15
+"STU0316","Liberal Arts",2,1.56,15,15
+"STU0316","Liberal Arts",3,2.05,15,15
+"STU0316","Liberal Arts",4,2.53,15,15
+"STU0316","Liberal Arts",5,2.33,15,15
+"STU0316","Liberal Arts",6,1.68,15,15
+"STU0316","Liberal Arts",7,2.48,15,15
+"STU0316","Liberal Arts",8,1.89,15,15
+"STU0317","Engineering",1,2.92,15,15
+"STU0317","Engineering",2,3.19,15,15
+"STU0317","Engineering",3,2.8,15,15
+"STU0317","Engineering",4,3.3,15,15
+"STU0317","Engineering",5,3.31,15,15
+"STU0317","Engineering",6,3.66,15,15
+"STU0317","Engineering",7,2.74,15,15
+"STU0317","Engineering",8,3.26,15,15
+"STU0318","Business",1,1.53,15,15
+"STU0318","Business",2,1.91,15,15
+"STU0319","Liberal Arts",1,3.35,15,15
+"STU0320","Liberal Arts",1,3.69,15,15
+"STU0320","Liberal Arts",2,3.86,15,15
+"STU0320","Liberal Arts",3,4,15,15
+"STU0320","Liberal Arts",4,3.83,15,15
+"STU0320","Liberal Arts",5,3.68,15,15
+"STU0320","Liberal Arts",6,3.08,15,15
+"STU0320","Liberal Arts",7,3.52,15,15
+"STU0320","Liberal Arts",8,4,15,15
+"STU0321","Business",1,2.79,15,15
+"STU0321","Business",2,2.65,15,15
+"STU0321","Business",3,2.54,15,15
+"STU0321","Business",4,3.07,15,15
+"STU0321","Business",5,3.35,15,15
+"STU0321","Business",6,2.64,15,15
+"STU0321","Business",7,2.68,15,15
+"STU0321","Business",8,3.48,15,15
+"STU0322","Business",1,3.09,15,15
+"STU0322","Business",2,4,15,15
+"STU0322","Business",3,4,15,15
+"STU0322","Business",4,3.14,15,15
+"STU0322","Business",5,3.99,15,15
+"STU0322","Business",6,4,15,15
+"STU0322","Business",7,3.96,15,15
+"STU0322","Business",8,3.46,15,15
+"STU0323","Engineering",1,2.55,15,15
+"STU0323","Engineering",2,1.99,15,15
+"STU0323","Engineering",3,2.12,15,15
+"STU0323","Engineering",4,2.69,15,15
+"STU0323","Engineering",5,3.37,15,15
+"STU0323","Engineering",6,2.2,15,15
+"STU0323","Engineering",7,2.11,15,15
+"STU0323","Engineering",8,2.18,15,15
+"STU0324","Engineering",1,1.96,15,15
+"STU0324","Engineering",2,2.23,15,15
+"STU0324","Engineering",3,1.54,15,15
+"STU0324","Engineering",4,1.33,15,15
+"STU0325","Business",1,2.35,15,15
+"STU0325","Business",2,2.67,15,15
+"STU0325","Business",3,2.43,15,15
+"STU0325","Business",4,2.98,15,15
+"STU0325","Business",5,1.56,15,15
+"STU0325","Business",6,3.01,15,15
+"STU0325","Business",7,2.07,15,15
+"STU0325","Business",8,2.35,15,15
+"STU0326","Liberal Arts",1,3.36,15,15
+"STU0326","Liberal Arts",2,3.77,15,15
+"STU0326","Liberal Arts",3,2.69,15,15
+"STU0326","Liberal Arts",4,3.15,15,15
+"STU0326","Liberal Arts",5,3.16,15,15
+"STU0326","Liberal Arts",6,3.42,15,15
+"STU0326","Liberal Arts",7,3.13,15,15
+"STU0326","Liberal Arts",8,3.53,15,15
+"STU0327","Business",1,2.52,15,15
+"STU0327","Business",2,2.3,15,15
+"STU0327","Business",3,2.05,15,15
+"STU0327","Business",4,2.63,15,15
+"STU0327","Business",5,2.04,15,15
+"STU0327","Business",6,2.9,15,15
+"STU0327","Business",7,2.41,15,15
+"STU0327","Business",8,1.88,15,15
+"STU0328","Liberal Arts",1,3.64,15,15
+"STU0328","Liberal Arts",2,3.64,15,15
+"STU0328","Liberal Arts",3,3.43,15,15
+"STU0328","Liberal Arts",4,3.74,15,15
+"STU0328","Liberal Arts",5,3.7,15,15
+"STU0328","Liberal Arts",6,4,15,15
+"STU0328","Liberal Arts",7,3.42,15,15
+"STU0328","Liberal Arts",8,3.36,15,15
+"STU0329","Liberal Arts",1,2.46,15,15
+"STU0329","Liberal Arts",2,2.83,15,15
+"STU0329","Liberal Arts",3,3.08,15,15
+"STU0329","Liberal Arts",4,2.77,15,15
+"STU0329","Liberal Arts",5,2.11,15,15
+"STU0329","Liberal Arts",6,3.01,15,15
+"STU0329","Liberal Arts",7,2.4,15,15
+"STU0329","Liberal Arts",8,2.92,15,15
+"STU0330","Liberal Arts",1,3.19,15,15
+"STU0330","Liberal Arts",2,2.93,15,15
+"STU0330","Liberal Arts",3,3.38,15,15
+"STU0330","Liberal Arts",4,3.8,15,15
+"STU0330","Liberal Arts",5,3.29,15,15
+"STU0330","Liberal Arts",6,2.97,15,15
+"STU0330","Liberal Arts",7,2.97,15,15
+"STU0330","Liberal Arts",8,4,15,15
+"STU0331","Liberal Arts",1,1.85,15,15
+"STU0331","Liberal Arts",2,1.92,15,15
+"STU0332","Engineering",1,2.38,15,15
+"STU0332","Engineering",2,2.8,15,15
+"STU0332","Engineering",3,2.43,15,15
+"STU0332","Engineering",4,2.46,15,15
+"STU0332","Engineering",5,1.99,15,15
+"STU0332","Engineering",6,2.36,15,15
+"STU0332","Engineering",7,2.77,15,15
+"STU0332","Engineering",8,2.14,15,15
+"STU0333","Engineering",1,2.9,15,15
+"STU0333","Engineering",2,2.48,15,15
+"STU0333","Engineering",3,3.4,15,15
+"STU0333","Engineering",4,3.13,15,15
+"STU0333","Engineering",5,3.44,15,15
+"STU0333","Engineering",6,3.45,15,15
+"STU0333","Engineering",7,3.96,15,15
+"STU0333","Engineering",8,3.44,15,15
+"STU0334","Business",1,2.63,15,15
+"STU0334","Business",2,3.81,15,15
+"STU0334","Business",3,3.65,15,15
+"STU0334","Business",4,2.59,15,15
+"STU0334","Business",5,3.69,15,15
+"STU0334","Business",6,3.7,15,15
+"STU0334","Business",7,3.5,15,15
+"STU0334","Business",8,4,15,15
+"STU0335","Business",1,2.16,15,15
+"STU0335","Business",2,1.96,15,15
+"STU0335","Business",3,1.54,15,15
+"STU0336","Business",1,3.3,15,15
+"STU0336","Business",2,3.1,15,15
+"STU0336","Business",3,3.98,15,15
+"STU0336","Business",4,3.02,15,15
+"STU0336","Business",5,3.22,15,15
+"STU0336","Business",6,3.15,15,15
+"STU0336","Business",7,3.32,15,15
+"STU0336","Business",8,3.65,15,15
+"STU0337","Business",1,1.55,15,15
+"STU0337","Business",2,1.78,15,15
+"STU0338","Engineering",1,3.12,15,15
+"STU0338","Engineering",2,2.11,15,15
+"STU0338","Engineering",3,3.21,15,15
+"STU0338","Engineering",4,2.58,15,15
+"STU0338","Engineering",5,2.77,15,15
+"STU0338","Engineering",6,3.01,15,15
+"STU0338","Engineering",7,2.82,15,15
+"STU0338","Engineering",8,1.57,15,15
+"STU0339","Liberal Arts",1,3.79,15,15
+"STU0339","Liberal Arts",2,2.82,15,15
+"STU0339","Liberal Arts",3,3.07,15,15
+"STU0339","Liberal Arts",4,2.82,15,15
+"STU0339","Liberal Arts",5,3.93,15,15
+"STU0339","Liberal Arts",6,3.69,15,15
+"STU0339","Liberal Arts",7,3.27,15,15
+"STU0339","Liberal Arts",8,3.16,15,15
+"STU0340","Engineering",1,2.51,15,15
+"STU0340","Engineering",2,2.46,15,15
+"STU0340","Engineering",3,2.46,15,15
+"STU0340","Engineering",4,3.24,15,15
+"STU0340","Engineering",5,2.44,15,15
+"STU0340","Engineering",6,2.64,15,15
+"STU0340","Engineering",7,2.93,15,15
+"STU0340","Engineering",8,2.87,15,15
+"STU0341","Business",1,1.17,15,15
+"STU0341","Business",2,1.85,15,15
+"STU0342","Engineering",1,3.39,15,15
+"STU0342","Engineering",2,2.51,15,15
+"STU0342","Engineering",3,3.16,15,15
+"STU0342","Engineering",4,2.65,15,15
+"STU0342","Engineering",5,2.6,15,15
+"STU0342","Engineering",6,3.2,15,15
+"STU0342","Engineering",7,2.87,15,15
+"STU0342","Engineering",8,3.45,15,15
+"STU0343","Liberal Arts",1,3.95,15,15
+"STU0343","Liberal Arts",2,2.39,15,15
+"STU0343","Liberal Arts",3,3.06,15,15
+"STU0343","Liberal Arts",4,3.37,15,15
+"STU0343","Liberal Arts",5,2.85,15,15
+"STU0343","Liberal Arts",6,3.3,15,15
+"STU0343","Liberal Arts",7,2.96,15,15
+"STU0343","Liberal Arts",8,3.96,15,15
+"STU0344","Business",1,2.91,15,15
+"STU0344","Business",2,2.83,15,15
+"STU0344","Business",3,2.72,15,15
+"STU0344","Business",4,3.87,15,15
+"STU0344","Business",5,2.88,15,15
+"STU0344","Business",6,2.81,15,15
+"STU0344","Business",7,1.9,15,15
+"STU0344","Business",8,3.38,15,15
+"STU0345","Engineering",1,1.67,15,15
+"STU0345","Engineering",2,1.88,15,15
+"STU0347","Liberal Arts",1,2.29,15,15
+"STU0347","Liberal Arts",2,2.89,15,15
+"STU0347","Liberal Arts",3,2.5,15,15
+"STU0347","Liberal Arts",4,2.73,15,15
+"STU0347","Liberal Arts",5,2.9,15,15
+"STU0347","Liberal Arts",6,2.58,15,15
+"STU0347","Liberal Arts",7,2.66,15,15
+"STU0347","Liberal Arts",8,3.3,15,15
+"STU0348","Business",1,2.94,15,15
+"STU0348","Business",2,2.56,15,15
+"STU0348","Business",3,3.3,15,15
+"STU0348","Business",4,1.9,15,15
+"STU0348","Business",5,2.66,15,15
+"STU0348","Business",6,3.18,15,15
+"STU0348","Business",7,2.62,15,15
+"STU0348","Business",8,3.24,15,15
+"STU0349","Liberal Arts",1,4,15,15
+"STU0349","Liberal Arts",2,4,15,15
+"STU0349","Liberal Arts",3,3.79,15,15
+"STU0349","Liberal Arts",4,3.86,15,15
+"STU0349","Liberal Arts",5,3.85,15,15
+"STU0349","Liberal Arts",6,3.99,15,15
+"STU0349","Liberal Arts",7,3.1,15,15
+"STU0349","Liberal Arts",8,3.74,15,15
+"STU0350","Liberal Arts",1,3.01,15,15
+"STU0350","Liberal Arts",2,2.05,15,15
+"STU0350","Liberal Arts",3,1.88,15,15
+"STU0350","Liberal Arts",4,2.12,15,15
+"STU0350","Liberal Arts",5,2.37,15,15
+"STU0350","Liberal Arts",6,2.66,15,15
+"STU0350","Liberal Arts",7,2.14,15,15
+"STU0350","Liberal Arts",8,2.54,15,15
+"STU0351","Business",1,3.2,15,15
+"STU0351","Business",2,3.56,15,15
+"STU0351","Business",3,3.45,15,15
+"STU0351","Business",4,3.76,15,15
+"STU0351","Business",5,3.19,15,15
+"STU0351","Business",6,2.97,15,15
+"STU0351","Business",7,4,15,15
+"STU0351","Business",8,3.55,15,15
+"STU0352","Business",1,3.12,15,15
+"STU0352","Business",2,3,15,15
+"STU0352","Business",3,3.61,15,15
+"STU0352","Business",4,3.57,15,15
+"STU0352","Business",5,3.03,15,15
+"STU0352","Business",6,4,15,15
+"STU0352","Business",7,3.41,15,15
+"STU0352","Business",8,2.65,15,15
+"STU0353","Engineering",1,3.35,15,15
+"STU0353","Engineering",2,3.51,15,15
+"STU0353","Engineering",3,3.59,15,15
+"STU0353","Engineering",4,3.51,15,15
+"STU0353","Engineering",5,3.37,15,15
+"STU0353","Engineering",6,3.71,15,15
+"STU0353","Engineering",7,3.45,15,15
+"STU0353","Engineering",8,2.58,15,15
+"STU0354","Engineering",1,2.34,15,15
+"STU0354","Engineering",2,3.48,15,15
+"STU0354","Engineering",3,2.63,15,15
+"STU0354","Engineering",4,3.06,15,15
+"STU0354","Engineering",5,3.3,15,15
+"STU0354","Engineering",6,2.77,15,15
+"STU0354","Engineering",7,2.39,15,15
+"STU0354","Engineering",8,2.94,15,15
+"STU0355","Liberal Arts",1,4,15,15
+"STU0355","Liberal Arts",2,4,15,15
+"STU0355","Liberal Arts",3,3.88,15,15
+"STU0355","Liberal Arts",4,3.65,15,15
+"STU0355","Liberal Arts",5,4,15,15
+"STU0355","Liberal Arts",6,4,15,15
+"STU0355","Liberal Arts",7,3.44,15,15
+"STU0355","Liberal Arts",8,4,15,15
+"STU0356","Business",1,2,15,15
+"STU0356","Business",2,1.93,15,15
+"STU0356","Business",3,2.3,15,15
+"STU0356","Business",4,2.16,15,15
+"STU0356","Business",5,1.8,15,15
+"STU0356","Business",6,1.88,15,15
+"STU0357","Business",1,3.35,15,15
+"STU0357","Business",2,3.61,15,15
+"STU0357","Business",3,3.6,15,15
+"STU0357","Business",4,3.21,15,15
+"STU0357","Business",5,4,15,15
+"STU0357","Business",6,3.19,15,15
+"STU0357","Business",7,3.67,15,15
+"STU0357","Business",8,3.15,15,15
+"STU0358","Liberal Arts",1,3.5,15,15
+"STU0358","Liberal Arts",2,3.23,15,15
+"STU0358","Liberal Arts",3,2.83,15,15
+"STU0358","Liberal Arts",4,3.08,15,15
+"STU0358","Liberal Arts",5,3.08,15,15
+"STU0358","Liberal Arts",6,2.9,15,15
+"STU0358","Liberal Arts",7,3.45,15,15
+"STU0358","Liberal Arts",8,3.33,15,15
+"STU0359","Business",1,4,15,15
+"STU0359","Business",2,4,15,15
+"STU0359","Business",3,4,15,15
+"STU0359","Business",4,3.45,15,15
+"STU0359","Business",5,3.84,15,15
+"STU0359","Business",6,3.66,15,15
+"STU0359","Business",7,3.35,15,15
+"STU0359","Business",8,3.83,15,15
+"STU0360","Business",1,2.33,15,15
+"STU0360","Business",2,2.79,15,15
+"STU0360","Business",3,2.09,15,15
+"STU0360","Business",4,1.61,15,15
+"STU0360","Business",5,3.48,15,15
+"STU0360","Business",6,3.29,15,15
+"STU0360","Business",7,3.25,15,15
+"STU0360","Business",8,2.22,15,15
+"STU0361","Business",1,3.53,15,15
+"STU0361","Business",2,3.42,15,15
+"STU0361","Business",3,3.12,15,15
+"STU0361","Business",4,3.11,15,15
+"STU0361","Business",5,3.37,15,15
+"STU0361","Business",6,3.44,15,15
+"STU0361","Business",7,3.83,15,15
+"STU0361","Business",8,3.66,15,15
+"STU0362","Business",1,3.51,15,15
+"STU0362","Business",2,3.03,15,15
+"STU0362","Business",3,3.46,15,15
+"STU0362","Business",4,3.01,15,15
+"STU0362","Business",5,3.25,15,15
+"STU0362","Business",6,2.89,15,15
+"STU0363","Engineering",1,2.59,15,15
+"STU0363","Engineering",2,3.11,15,15
+"STU0363","Engineering",3,2.77,15,15
+"STU0363","Engineering",4,2.58,15,15
+"STU0363","Engineering",5,2.97,15,15
+"STU0363","Engineering",6,3.16,15,15
+"STU0363","Engineering",7,2.94,15,15
+"STU0363","Engineering",8,2.44,15,15
+"STU0364","Liberal Arts",1,3.51,15,15
+"STU0364","Liberal Arts",2,2.55,15,15
+"STU0364","Liberal Arts",3,3.76,15,15
+"STU0364","Liberal Arts",4,3.45,15,15
+"STU0364","Liberal Arts",5,3.87,15,15
+"STU0364","Liberal Arts",6,3.67,15,15
+"STU0364","Liberal Arts",7,3.4,15,15
+"STU0364","Liberal Arts",8,3.46,15,15
+"STU0365","Business",1,2.79,15,15
+"STU0365","Business",2,3.48,15,15
+"STU0365","Business",3,2.84,15,15
+"STU0365","Business",4,3.51,15,15
+"STU0365","Business",5,3.31,15,15
+"STU0365","Business",6,2.62,15,15
+"STU0365","Business",7,3.64,15,15
+"STU0365","Business",8,3.08,15,15
+"STU0366","Business",1,4,15,15
+"STU0366","Business",2,3.51,15,15
+"STU0366","Business",3,3.4,15,15
+"STU0366","Business",4,3.99,15,15
+"STU0366","Business",5,3.67,15,15
+"STU0366","Business",6,4,15,15
+"STU0366","Business",7,3.97,15,15
+"STU0366","Business",8,3.81,15,15
+"STU0367","Business",1,2.95,15,15
+"STU0367","Business",2,2.49,15,15
+"STU0367","Business",3,3.39,15,15
+"STU0367","Business",4,2.61,15,15
+"STU0367","Business",5,2.74,15,15
+"STU0367","Business",6,3.39,15,15
+"STU0367","Business",7,2.29,15,15
+"STU0367","Business",8,2.87,15,15
+"STU0368","Liberal Arts",1,3.31,15,15
+"STU0368","Liberal Arts",2,3.81,15,15
+"STU0368","Liberal Arts",3,3.3,15,15
+"STU0368","Liberal Arts",4,2.96,15,15
+"STU0368","Liberal Arts",5,2.65,15,15
+"STU0368","Liberal Arts",6,3.7,15,15
+"STU0368","Liberal Arts",7,3.24,15,15
+"STU0368","Liberal Arts",8,3.48,15,15
+"STU0369","Business",1,4,15,15
+"STU0369","Business",2,3.91,15,15
+"STU0369","Business",3,3.41,15,15
+"STU0369","Business",4,4,15,15
+"STU0369","Business",5,4,15,15
+"STU0369","Business",6,4,15,15
+"STU0369","Business",7,4,15,15
+"STU0369","Business",8,3.27,15,15
+"STU0370","Engineering",1,3.81,15,15
+"STU0370","Engineering",2,3.78,15,15
+"STU0370","Engineering",3,4,15,15
+"STU0370","Engineering",4,4,15,15
+"STU0370","Engineering",5,3.61,15,15
+"STU0370","Engineering",6,3.72,15,15
+"STU0370","Engineering",7,3.96,15,15
+"STU0370","Engineering",8,3.24,15,15
+"STU0371","Engineering",1,3.66,15,15
+"STU0371","Engineering",2,3.46,15,15
+"STU0371","Engineering",3,3.21,15,15
+"STU0371","Engineering",4,3.54,15,15
+"STU0371","Engineering",5,3.13,15,15
+"STU0371","Engineering",6,3.29,15,15
+"STU0371","Engineering",7,4,15,15
+"STU0371","Engineering",8,3.78,15,15
+"STU0372","Engineering",1,3.87,15,15
+"STU0372","Engineering",2,3.48,15,15
+"STU0372","Engineering",3,3.85,15,15
+"STU0372","Engineering",4,4,15,15
+"STU0372","Engineering",5,3.41,15,15
+"STU0372","Engineering",6,3.69,15,15
+"STU0372","Engineering",7,3.25,15,15
+"STU0372","Engineering",8,3.58,15,15
+"STU0373","Liberal Arts",1,3.27,15,15
+"STU0373","Liberal Arts",2,4,15,15
+"STU0373","Liberal Arts",3,3.87,15,15
+"STU0373","Liberal Arts",4,4,15,15
+"STU0373","Liberal Arts",5,3.98,15,15
+"STU0373","Liberal Arts",6,4,15,15
+"STU0373","Liberal Arts",7,3.44,15,15
+"STU0373","Liberal Arts",8,3.51,15,15
+"STU0374","Engineering",1,4,15,15
+"STU0374","Engineering",2,3.3,15,15
+"STU0374","Engineering",3,4,15,15
+"STU0374","Engineering",4,3.33,15,15
+"STU0374","Engineering",5,3.1,15,15
+"STU0374","Engineering",6,3.16,15,15
+"STU0374","Engineering",7,3.7,15,15
+"STU0374","Engineering",8,4,15,15
+"STU0375","Liberal Arts",1,3.7,15,15
+"STU0375","Liberal Arts",2,3.28,15,15
+"STU0375","Liberal Arts",3,3.96,15,15
+"STU0375","Liberal Arts",4,3.36,15,15
+"STU0375","Liberal Arts",5,2.83,15,15
+"STU0375","Liberal Arts",6,3.62,15,15
+"STU0375","Liberal Arts",7,3.38,15,15
+"STU0375","Liberal Arts",8,3.57,15,15
+"STU0376","Liberal Arts",1,2.68,15,15
+"STU0376","Liberal Arts",2,2.99,15,15
+"STU0376","Liberal Arts",3,1.97,15,15
+"STU0376","Liberal Arts",4,2.89,15,15
+"STU0376","Liberal Arts",5,2.71,15,15
+"STU0376","Liberal Arts",6,2.33,15,15
+"STU0376","Liberal Arts",7,2.89,15,15
+"STU0376","Liberal Arts",8,2.51,15,15
+"STU0377","Engineering",1,3.43,15,15
+"STU0377","Engineering",2,3.56,15,15
+"STU0377","Engineering",3,4,15,15
+"STU0377","Engineering",4,3.16,15,15
+"STU0377","Engineering",5,4,15,15
+"STU0377","Engineering",6,3.37,15,15
+"STU0377","Engineering",7,3.62,15,15
+"STU0378","Engineering",1,2.76,15,15
+"STU0378","Engineering",2,3.85,15,15
+"STU0378","Engineering",3,3.69,15,15
+"STU0378","Engineering",4,3.95,15,15
+"STU0378","Engineering",5,3.03,15,15
+"STU0378","Engineering",6,3.35,15,15
+"STU0378","Engineering",7,3.88,15,15
+"STU0378","Engineering",8,4,15,15
+"STU0379","Engineering",1,1.06,15,15
+"STU0379","Engineering",2,2.26,15,15
+"STU0379","Engineering",3,1.63,15,15
+"STU0379","Engineering",4,1.7,15,15
+"STU0380","Liberal Arts",1,2.69,15,15
+"STU0380","Liberal Arts",2,2.58,15,15
+"STU0380","Liberal Arts",3,2.86,15,15
+"STU0380","Liberal Arts",4,2.45,15,15
+"STU0380","Liberal Arts",5,2.63,15,15
+"STU0380","Liberal Arts",6,1.77,15,15
+"STU0380","Liberal Arts",7,2.5,15,15
+"STU0380","Liberal Arts",8,2.01,15,15
+"STU0381","Business",1,1.33,15,15
+"STU0381","Business",2,1.53,15,15
+"STU0382","Business",1,3.58,15,15
+"STU0382","Business",2,4,15,15
+"STU0382","Business",3,3.07,15,15
+"STU0382","Business",4,3.37,15,15
+"STU0382","Business",5,3.91,15,15
+"STU0382","Business",6,3.88,15,15
+"STU0382","Business",7,3.93,15,15
+"STU0382","Business",8,3.61,15,15
+"STU0383","Business",1,4,15,15
+"STU0383","Business",2,3.76,15,15
+"STU0383","Business",3,3.8,15,15
+"STU0383","Business",4,3.46,15,15
+"STU0383","Business",5,3.33,15,15
+"STU0383","Business",6,3.91,15,15
+"STU0383","Business",7,3.27,15,15
+"STU0383","Business",8,2.77,15,15
+"STU0384","Engineering",1,2.16,15,15
+"STU0384","Engineering",2,1.66,15,15
+"STU0384","Engineering",3,1.75,15,15
+"STU0385","Business",1,3.64,15,15
+"STU0385","Business",2,4,15,15
+"STU0385","Business",3,3.21,15,15
+"STU0385","Business",4,3.82,15,15
+"STU0385","Business",5,3.25,15,15
+"STU0385","Business",6,3.38,15,15
+"STU0385","Business",7,2.91,15,15
+"STU0385","Business",8,3.58,15,15
+"STU0386","Liberal Arts",1,2.95,15,15
+"STU0386","Liberal Arts",2,2.44,15,15
+"STU0386","Liberal Arts",3,2.15,15,15
+"STU0386","Liberal Arts",4,3.84,15,15
+"STU0386","Liberal Arts",5,3.46,15,15
+"STU0386","Liberal Arts",6,2.55,15,15
+"STU0386","Liberal Arts",7,3.54,15,15
+"STU0386","Liberal Arts",8,1.8,15,15
+"STU0387","Engineering",1,3.26,15,15
+"STU0387","Engineering",2,3.42,15,15
+"STU0387","Engineering",3,3.07,15,15
+"STU0387","Engineering",4,2.87,15,15
+"STU0387","Engineering",5,3.42,15,15
+"STU0388","Liberal Arts",1,2.18,15,15
+"STU0388","Liberal Arts",2,3.03,15,15
+"STU0388","Liberal Arts",3,2.82,15,15
+"STU0388","Liberal Arts",4,2.81,15,15
+"STU0388","Liberal Arts",5,2.47,15,15
+"STU0388","Liberal Arts",6,2.46,15,15
+"STU0388","Liberal Arts",7,2.83,15,15
+"STU0388","Liberal Arts",8,2.93,15,15
+"STU0389","Engineering",1,2.09,15,15
+"STU0390","Engineering",1,3.73,15,15
+"STU0390","Engineering",2,3.34,15,15
+"STU0390","Engineering",3,3.19,15,15
+"STU0390","Engineering",4,3.55,15,15
+"STU0390","Engineering",5,2.96,15,15
+"STU0390","Engineering",6,3.93,15,15
+"STU0390","Engineering",7,3.05,15,15
+"STU0390","Engineering",8,3.64,15,15
+"STU0391","Liberal Arts",1,2.71,15,15
+"STU0391","Liberal Arts",2,2.73,15,15
+"STU0391","Liberal Arts",3,2.88,15,15
+"STU0391","Liberal Arts",4,2.95,15,15
+"STU0391","Liberal Arts",5,2.66,15,15
+"STU0391","Liberal Arts",6,2.69,15,15
+"STU0391","Liberal Arts",7,2.86,15,15
+"STU0391","Liberal Arts",8,3.33,15,15
+"STU0392","Business",1,3.78,15,15
+"STU0392","Business",2,2.58,15,15
+"STU0392","Business",3,2.84,15,15
+"STU0392","Business",4,2.95,15,15
+"STU0392","Business",5,3.39,15,15
+"STU0392","Business",6,2.52,15,15
+"STU0392","Business",7,3.7,15,15
+"STU0392","Business",8,2.81,15,15
+"STU0393","Business",1,3.65,15,15
+"STU0393","Business",2,3.86,15,15
+"STU0393","Business",3,3.61,15,15
+"STU0393","Business",4,4,15,15
+"STU0393","Business",5,3.64,15,15
+"STU0393","Business",6,3.55,15,15
+"STU0393","Business",7,3.46,15,15
+"STU0393","Business",8,3,15,15
+"STU0394","Engineering",1,3.5,15,15
+"STU0394","Engineering",2,4,15,15
+"STU0394","Engineering",3,4,15,15
+"STU0394","Engineering",4,3.46,15,15
+"STU0394","Engineering",5,3.56,15,15
+"STU0394","Engineering",6,3.36,15,15
+"STU0394","Engineering",7,3.6,15,15
+"STU0394","Engineering",8,4,15,15
+"STU0395","Liberal Arts",1,3.25,15,15
+"STU0395","Liberal Arts",2,2.56,15,15
+"STU0395","Liberal Arts",3,2.95,15,15
+"STU0395","Liberal Arts",4,2.8,15,15
+"STU0395","Liberal Arts",5,2.19,15,15
+"STU0395","Liberal Arts",6,3.03,15,15
+"STU0395","Liberal Arts",7,3.26,15,15
+"STU0395","Liberal Arts",8,3.37,15,15
+"STU0396","Business",1,3,15,15
+"STU0396","Business",2,2.9,15,15
+"STU0396","Business",3,2.74,15,15
+"STU0396","Business",4,3.17,15,15
+"STU0396","Business",5,3.08,15,15
+"STU0396","Business",6,2.74,15,15
+"STU0396","Business",7,2.53,15,15
+"STU0396","Business",8,3.21,15,15
+"STU0397","Liberal Arts",1,3.49,15,15
+"STU0397","Liberal Arts",2,3.11,15,15
+"STU0397","Liberal Arts",3,3.41,15,15
+"STU0397","Liberal Arts",4,3.73,15,15
+"STU0397","Liberal Arts",5,3,15,15
+"STU0397","Liberal Arts",6,3.73,15,15
+"STU0397","Liberal Arts",7,3.74,15,15
+"STU0397","Liberal Arts",8,3.28,15,15
+"STU0398","Liberal Arts",1,2.05,15,15
+"STU0398","Liberal Arts",2,2.64,15,15
+"STU0398","Liberal Arts",3,1.5,15,15
+"STU0398","Liberal Arts",4,1.48,15,15
+"STU0399","Business",1,3.99,15,15
+"STU0399","Business",2,3.54,15,15
+"STU0399","Business",3,3.62,15,15
+"STU0399","Business",4,3.07,15,15
+"STU0400","Engineering",1,3.08,15,15
+"STU0400","Engineering",2,3.35,15,15
+"STU0400","Engineering",3,3.43,15,15

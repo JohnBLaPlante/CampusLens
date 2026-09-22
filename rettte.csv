@@ -1,0 +1,401 @@
+"STUID","PROGRAM","TIME","EVENT"
+"STU0001","Liberal Arts",8,0
+"STU0002","Liberal Arts",8,0
+"STU0003","Engineering",8,0
+"STU0004","Liberal Arts",5,1
+"STU0005","Business",8,0
+"STU0006","Business",8,0
+"STU0007","Liberal Arts",8,0
+"STU0008","Engineering",8,0
+"STU0009","Business",8,0
+"STU0010","Liberal Arts",8,0
+"STU0011","Business",8,0
+"STU0012","Liberal Arts",8,0
+"STU0013","Liberal Arts",8,0
+"STU0014","Engineering",7,1
+"STU0015","Business",8,0
+"STU0016","Liberal Arts",8,0
+"STU0017","Liberal Arts",8,0
+"STU0018","Engineering",8,0
+"STU0019","Business",6,1
+"STU0020","Business",8,0
+"STU0021","Liberal Arts",8,0
+"STU0022","Engineering",8,0
+"STU0023","Liberal Arts",7,1
+"STU0024","Liberal Arts",8,0
+"STU0025","Engineering",8,0
+"STU0026","Business",8,0
+"STU0027","Business",8,0
+"STU0028","Liberal Arts",8,0
+"STU0029","Business",8,0
+"STU0030","Liberal Arts",8,0
+"STU0031","Liberal Arts",8,0
+"STU0032","Liberal Arts",8,0
+"STU0033","Business",8,0
+"STU0034","Business",8,0
+"STU0035","Engineering",8,0
+"STU0036","Liberal Arts",8,0
+"STU0037","Engineering",8,0
+"STU0038","Engineering",8,0
+"STU0039","Liberal Arts",8,0
+"STU0040","Business",8,0
+"STU0041","Business",1,1
+"STU0042","Business",6,1
+"STU0043","Engineering",8,0
+"STU0044","Liberal Arts",8,0
+"STU0045","Business",8,0
+"STU0046","Liberal Arts",8,0
+"STU0047","Liberal Arts",8,0
+"STU0048","Business",4,1
+"STU0049","Liberal Arts",8,0
+"STU0050","Business",3,1
+"STU0051","Engineering",8,0
+"STU0052","Engineering",7,1
+"STU0053","Business",8,0
+"STU0054","Liberal Arts",8,0
+"STU0055","Engineering",8,0
+"STU0056","Liberal Arts",8,0
+"STU0057","Business",8,0
+"STU0058","Engineering",8,0
+"STU0059","Engineering",8,0
+"STU0060","Business",8,0
+"STU0061","Business",8,0
+"STU0062","Liberal Arts",8,0
+"STU0063","Liberal Arts",8,0
+"STU0064","Business",8,0
+"STU0065","Liberal Arts",8,0
+"STU0066","Engineering",8,0
+"STU0067","Engineering",8,0
+"STU0068","Liberal Arts",8,0
+"STU0069","Business",6,1
+"STU0070","Engineering",8,0
+"STU0071","Engineering",8,0
+"STU0072","Engineering",2,1
+"STU0073","Engineering",8,0
+"STU0074","Business",8,0
+"STU0075","Engineering",8,0
+"STU0076","Liberal Arts",3,1
+"STU0077","Engineering",8,0
+"STU0078","Business",5,1
+"STU0079","Business",6,1
+"STU0080","Engineering",8,0
+"STU0081","Business",8,0
+"STU0082","Engineering",2,1
+"STU0083","Business",8,0
+"STU0084","Business",8,0
+"STU0085","Liberal Arts",8,0
+"STU0086","Business",6,1
+"STU0087","Engineering",8,0
+"STU0088","Engineering",8,0
+"STU0089","Engineering",8,0
+"STU0090","Engineering",8,0
+"STU0091","Business",8,0
+"STU0092","Engineering",8,0
+"STU0093","Engineering",8,0
+"STU0094","Liberal Arts",8,0
+"STU0095","Liberal Arts",8,0
+"STU0096","Liberal Arts",8,0
+"STU0097","Engineering",8,0
+"STU0098","Business",8,0
+"STU0099","Liberal Arts",8,0
+"STU0100","Business",8,0
+"STU0101","Business",8,0
+"STU0102","Engineering",8,0
+"STU0103","Engineering",8,0
+"STU0104","Business",8,0
+"STU0105","Liberal Arts",8,0
+"STU0106","Liberal Arts",8,0
+"STU0107","Liberal Arts",8,0
+"STU0108","Liberal Arts",8,0
+"STU0109","Business",8,0
+"STU0110","Engineering",8,0
+"STU0111","Business",8,0
+"STU0112","Liberal Arts",8,0
+"STU0113","Liberal Arts",8,0
+"STU0114","Business",3,1
+"STU0115","Business",8,0
+"STU0116","Business",8,0
+"STU0117","Engineering",8,0
+"STU0118","Business",8,0
+"STU0119","Business",5,1
+"STU0120","Liberal Arts",8,0
+"STU0121","Business",8,0
+"STU0122","Business",8,0
+"STU0123","Business",8,0
+"STU0124","Business",4,1
+"STU0125","Liberal Arts",5,1
+"STU0126","Business",8,0
+"STU0127","Liberal Arts",8,0
+"STU0128","Liberal Arts",1,1
+"STU0129","Engineering",8,0
+"STU0130","Liberal Arts",8,0
+"STU0131","Liberal Arts",2,1
+"STU0132","Business",8,0
+"STU0133","Business",8,0
+"STU0134","Liberal Arts",2,1
+"STU0135","Liberal Arts",8,0
+"STU0136","Business",8,0
+"STU0137","Liberal Arts",8,0
+"STU0138","Engineering",8,0
+"STU0139","Liberal Arts",8,0
+"STU0140","Business",3,1
+"STU0141","Engineering",2,1
+"STU0142","Engineering",8,0
+"STU0143","Business",8,0
+"STU0144","Liberal Arts",8,0
+"STU0145","Liberal Arts",8,0
+"STU0146","Liberal Arts",8,0
+"STU0147","Engineering",8,0
+"STU0148","Liberal Arts",8,0
+"STU0149","Engineering",8,0
+"STU0150","Engineering",5,1
+"STU0151","Liberal Arts",8,0
+"STU0152","Engineering",8,0
+"STU0153","Liberal Arts",8,0
+"STU0154","Business",8,0
+"STU0155","Business",3,1
+"STU0156","Liberal Arts",5,1
+"STU0157","Engineering",8,0
+"STU0158","Engineering",8,0
+"STU0159","Engineering",8,0
+"STU0160","Business",8,0
+"STU0161","Liberal Arts",8,0
+"STU0162","Business",8,0
+"STU0163","Business",8,0
+"STU0164","Engineering",3,1
+"STU0165","Business",8,0
+"STU0166","Engineering",8,0
+"STU0167","Business",8,0
+"STU0168","Engineering",8,0
+"STU0169","Engineering",8,0
+"STU0170","Engineering",8,0
+"STU0171","Liberal Arts",8,1
+"STU0172","Business",3,1
+"STU0173","Business",2,1
+"STU0174","Business",3,1
+"STU0175","Business",8,0
+"STU0176","Engineering",1,1
+"STU0177","Liberal Arts",8,0
+"STU0178","Business",8,0
+"STU0179","Liberal Arts",8,0
+"STU0180","Liberal Arts",8,0
+"STU0181","Liberal Arts",3,1
+"STU0182","Liberal Arts",8,0
+"STU0183","Engineering",8,0
+"STU0184","Engineering",8,0
+"STU0185","Liberal Arts",3,1
+"STU0186","Liberal Arts",8,0
+"STU0187","Liberal Arts",8,0
+"STU0188","Liberal Arts",8,0
+"STU0189","Engineering",8,0
+"STU0190","Engineering",4,1
+"STU0191","Engineering",8,0
+"STU0192","Liberal Arts",8,0
+"STU0193","Engineering",2,1
+"STU0194","Engineering",8,0
+"STU0195","Engineering",8,0
+"STU0196","Engineering",8,0
+"STU0197","Business",2,1
+"STU0198","Engineering",8,0
+"STU0199","Liberal Arts",8,0
+"STU0200","Liberal Arts",8,0
+"STU0201","Liberal Arts",8,0
+"STU0202","Business",8,0
+"STU0203","Liberal Arts",8,0
+"STU0204","Business",8,0
+"STU0205","Engineering",2,1
+"STU0206","Business",8,0
+"STU0207","Liberal Arts",8,0
+"STU0208","Business",8,0
+"STU0209","Engineering",8,0
+"STU0210","Engineering",8,0
+"STU0211","Business",8,0
+"STU0212","Business",8,0
+"STU0213","Engineering",1,1
+"STU0214","Engineering",3,1
+"STU0215","Business",7,1
+"STU0216","Liberal Arts",8,0
+"STU0217","Business",8,0
+"STU0218","Business",8,0
+"STU0219","Business",8,0
+"STU0220","Liberal Arts",8,0
+"STU0221","Business",8,0
+"STU0222","Engineering",8,0
+"STU0223","Business",8,0
+"STU0224","Liberal Arts",1,1
+"STU0225","Engineering",8,0
+"STU0226","Liberal Arts",8,0
+"STU0227","Engineering",8,0
+"STU0228","Engineering",5,1
+"STU0229","Engineering",8,0
+"STU0230","Engineering",8,0
+"STU0231","Business",8,0
+"STU0232","Engineering",8,0
+"STU0233","Engineering",1,1
+"STU0234","Engineering",8,0
+"STU0235","Liberal Arts",8,0
+"STU0236","Liberal Arts",2,1
+"STU0237","Engineering",8,0
+"STU0238","Liberal Arts",8,0
+"STU0239","Business",8,0
+"STU0240","Business",8,0
+"STU0241","Engineering",8,0
+"STU0242","Business",8,0
+"STU0243","Engineering",8,0
+"STU0244","Engineering",8,0
+"STU0245","Business",8,0
+"STU0246","Business",8,0
+"STU0247","Engineering",8,0
+"STU0248","Engineering",8,0
+"STU0249","Business",8,0
+"STU0250","Liberal Arts",8,0
+"STU0251","Engineering",2,1
+"STU0252","Engineering",8,0
+"STU0253","Engineering",8,0
+"STU0254","Business",8,0
+"STU0255","Engineering",2,1
+"STU0256","Liberal Arts",8,0
+"STU0257","Engineering",8,0
+"STU0258","Business",8,0
+"STU0259","Business",8,0
+"STU0260","Business",8,0
+"STU0261","Liberal Arts",8,0
+"STU0262","Engineering",8,0
+"STU0263","Engineering",8,0
+"STU0264","Liberal Arts",8,0
+"STU0265","Business",5,1
+"STU0266","Engineering",2,1
+"STU0267","Liberal Arts",8,0
+"STU0268","Engineering",7,1
+"STU0269","Liberal Arts",8,0
+"STU0270","Liberal Arts",8,0
+"STU0271","Engineering",8,0
+"STU0272","Liberal Arts",8,0
+"STU0273","Business",8,0
+"STU0274","Engineering",4,1
+"STU0275","Liberal Arts",8,0
+"STU0276","Engineering",8,0
+"STU0277","Engineering",8,0
+"STU0278","Business",8,0
+"STU0279","Business",8,0
+"STU0280","Business",8,0
+"STU0281","Business",2,1
+"STU0282","Engineering",8,0
+"STU0283","Engineering",8,0
+"STU0284","Liberal Arts",8,0
+"STU0285","Engineering",3,1
+"STU0286","Engineering",8,0
+"STU0287","Business",3,1
+"STU0288","Engineering",8,0
+"STU0289","Engineering",8,0
+"STU0290","Engineering",8,0
+"STU0291","Liberal Arts",8,0
+"STU0292","Liberal Arts",8,0
+"STU0293","Engineering",8,0
+"STU0294","Business",8,0
+"STU0295","Engineering",8,0
+"STU0296","Engineering",8,0
+"STU0297","Liberal Arts",8,0
+"STU0298","Business",8,0
+"STU0299","Engineering",8,1
+"STU0300","Engineering",2,1
+"STU0301","Business",8,0
+"STU0302","Business",8,0
+"STU0303","Engineering",8,0
+"STU0304","Engineering",8,0
+"STU0305","Liberal Arts",8,0
+"STU0306","Liberal Arts",8,0
+"STU0307","Business",8,0
+"STU0308","Engineering",8,0
+"STU0309","Engineering",8,0
+"STU0310","Engineering",8,0
+"STU0311","Engineering",8,0
+"STU0312","Liberal Arts",2,1
+"STU0313","Business",8,0
+"STU0314","Engineering",8,0
+"STU0315","Engineering",8,0
+"STU0316","Liberal Arts",8,0
+"STU0317","Engineering",8,0
+"STU0318","Business",2,1
+"STU0319","Liberal Arts",2,1
+"STU0320","Liberal Arts",8,0
+"STU0321","Business",8,0
+"STU0322","Business",8,0
+"STU0323","Engineering",8,0
+"STU0324","Engineering",4,1
+"STU0325","Business",8,0
+"STU0326","Liberal Arts",8,0
+"STU0327","Business",8,0
+"STU0328","Liberal Arts",8,0
+"STU0329","Liberal Arts",8,0
+"STU0330","Liberal Arts",8,0
+"STU0331","Liberal Arts",2,1
+"STU0332","Engineering",8,0
+"STU0333","Engineering",8,0
+"STU0334","Business",8,0
+"STU0335","Business",3,1
+"STU0336","Business",8,0
+"STU0337","Business",2,1
+"STU0338","Engineering",8,0
+"STU0339","Liberal Arts",8,0
+"STU0340","Engineering",8,0
+"STU0341","Business",2,1
+"STU0342","Engineering",8,0
+"STU0343","Liberal Arts",8,0
+"STU0344","Business",8,0
+"STU0345","Engineering",2,1
+"STU0346","Engineering",1,1
+"STU0347","Liberal Arts",8,0
+"STU0348","Business",8,0
+"STU0349","Liberal Arts",8,0
+"STU0350","Liberal Arts",8,0
+"STU0351","Business",8,0
+"STU0352","Business",8,0
+"STU0353","Engineering",8,0
+"STU0354","Engineering",8,0
+"STU0355","Liberal Arts",8,0
+"STU0356","Business",6,1
+"STU0357","Business",8,0
+"STU0358","Liberal Arts",8,0
+"STU0359","Business",8,0
+"STU0360","Business",8,0
+"STU0361","Business",8,0
+"STU0362","Business",7,1
+"STU0363","Engineering",8,0
+"STU0364","Liberal Arts",8,0
+"STU0365","Business",8,0
+"STU0366","Business",8,0
+"STU0367","Business",8,0
+"STU0368","Liberal Arts",8,0
+"STU0369","Business",8,0
+"STU0370","Engineering",8,0
+"STU0371","Engineering",8,0
+"STU0372","Engineering",8,0
+"STU0373","Liberal Arts",8,0
+"STU0374","Engineering",8,0
+"STU0375","Liberal Arts",8,0
+"STU0376","Liberal Arts",8,0
+"STU0377","Engineering",8,1
+"STU0378","Engineering",8,0
+"STU0379","Engineering",4,1
+"STU0380","Liberal Arts",8,0
+"STU0381","Business",2,1
+"STU0382","Business",8,0
+"STU0383","Business",8,0
+"STU0384","Engineering",3,1
+"STU0385","Business",8,0
+"STU0386","Liberal Arts",8,0
+"STU0387","Engineering",6,1
+"STU0388","Liberal Arts",8,0
+"STU0389","Engineering",2,1
+"STU0390","Engineering",8,0
+"STU0391","Liberal Arts",8,0
+"STU0392","Business",8,0
+"STU0393","Business",8,0
+"STU0394","Engineering",8,0
+"STU0395","Liberal Arts",8,0
+"STU0396","Business",8,0
+"STU0397","Liberal Arts",8,0
+"STU0398","Liberal Arts",4,1
+"STU0399","Business",5,1
+"STU0400","Engineering",4,1
