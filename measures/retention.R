@@ -14,8 +14,8 @@
 #' were academically dismissed, based on STUSL.FINAL_STATUS.
 #'
 #' @measure
-attrition_by_program <- function(trial) {
-  dplyr::tbl(trial, "STUSL") |>
+attrition_by_program <- function(campus) {
+  dplyr::tbl(campus, "STUSL") |>
     dplyr::mutate(
       ATTRITED = dplyr::if_else(FINAL_STATUS %in% c("WITHDRAWN", "DISMISSED"), 1L, 0L)
     ) |>
@@ -36,8 +36,8 @@ attrition_by_program <- function(trial) {
 #' demographics by program.
 #'
 #' @measure
-demog_profile_by_program <- function(trial) {
-  dplyr::tbl(trial, "STUSL") |>
+demog_profile_by_program <- function(campus) {
+  dplyr::tbl(campus, "STUSL") |>
     dplyr::group_by(PROGRAM) |>
     dplyr::summarize(
       n = dplyr::n(),
@@ -58,8 +58,8 @@ demog_profile_by_program <- function(trial) {
 #' @param program `string` Optional program name (e.g. "Engineering") to
 #'   restrict to. Defaults to all programs.
 #' @measure
-probation_by_category <- function(trial, program = NULL) {
-  events <- dplyr::tbl(trial, "ACAE")
+probation_by_category <- function(campus, program = NULL) {
+  events <- dplyr::tbl(campus, "ACAE")
   if (!is.null(program)) {
     valid <- events |> dplyr::distinct(PROGRAM) |> dplyr::pull(PROGRAM)
     if (!program %in% valid) {
@@ -88,8 +88,8 @@ probation_by_category <- function(trial, program = NULL) {
 #' GPA trends or shifts over a student's time at the university.
 #'
 #' @measure
-gpa_trend_table <- function(trial) {
-  termgpa <- dplyr::tbl(trial, "TERMGPA")
+gpa_trend_table <- function(campus) {
+  termgpa <- dplyr::tbl(campus, "TERMGPA")
 
   first_gpa <- termgpa |>
     dplyr::group_by(STUID) |>
@@ -103,7 +103,7 @@ gpa_trend_table <- function(trial) {
     dplyr::ungroup() |>
     dplyr::select(STUID, LAST_TERM_GPA = TERM_GPA)
 
-  stusl <- dplyr::tbl(trial, "STUSL") |> dplyr::select(STUID, PROGRAM)
+  stusl <- dplyr::tbl(campus, "STUSL") |> dplyr::select(STUID, PROGRAM)
 
   stusl |>
     dplyr::inner_join(first_gpa, by = "STUID") |>
@@ -129,8 +129,8 @@ gpa_trend_table <- function(trial) {
 #' Counts of final status (GRADUATED, WITHDRAWN, DISMISSED) by program.
 #'
 #' @measure
-completion_status_summary <- function(trial) {
-  dplyr::tbl(trial, "STUSL") |>
+completion_status_summary <- function(campus) {
+  dplyr::tbl(campus, "STUSL") |>
     dplyr::count(PROGRAM, FINAL_STATUS, name = "n_students") |>
     dplyr::arrange(PROGRAM, FINAL_STATUS)
 }
@@ -145,8 +145,8 @@ completion_status_summary <- function(trial) {
 #' @param through_term `number` Optional term cutoff (1-8). Defaults to no
 #'   cutoff (attrition at any point).
 #' @measure
-attrition_rate_by_program <- function(trial, through_term = NULL) {
-  rette <- dplyr::tbl(trial, "RETTTE")
+attrition_rate_by_program <- function(campus, through_term = NULL) {
+  rette <- dplyr::tbl(campus, "RETTTE")
   if (!is.null(through_term)) {
     rette <- rette |>
       dplyr::mutate(EVENT = dplyr::if_else(EVENT == 1 & TIME <= through_term, 1L, 0L))
@@ -173,8 +173,8 @@ attrition_rate_by_program <- function(trial, through_term = NULL) {
 #' retention by program. Built with ggsurvfit on top of survival::survfit2().
 #'
 #' @measure
-km_plot_by_program <- function(trial) {
-  raw <- dplyr::tbl(trial, "RETTTE") |>
+km_plot_by_program <- function(campus) {
+  raw <- dplyr::tbl(campus, "RETTTE") |>
     dplyr::select(PROGRAM, TIME, EVENT) |>
     dplyr::collect()
 
