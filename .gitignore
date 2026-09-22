@@ -1,1 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+renv/library
+renv/staging
+renv/python
 .DS_Store
