@@ -13,7 +13,8 @@ entering cohort are entirely synthetic (see `generate_synthetic_data.R`).
 
 ```r
 pak::pak(c(
-  "posit-dev/commons/pkg-r", "duckdb", "survival", "ggsurvfit", "ellmer"
+  "posit-dev/commons/pkg-r", "duckdb", "survival", "ggsurvfit", "ellmer",
+  "paws.common"
 ))
 ```
 

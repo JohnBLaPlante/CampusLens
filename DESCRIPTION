@@ -4,7 +4,6 @@ Title: CampusLens -- Governed Student-Retention Q&A Agent
 Description: A commons-based governed AI agent demo over synthetic
     higher-education student-retention data. Ported from sol-eng/TrialLens.
 Imports:
-    bsicons,
     bslib,
     commons,
     DBI,
