@@ -61,6 +61,9 @@ demog_profile_by_program <- function(campus) {
 probation_by_category <- function(campus, program = NULL) {
   events <- dplyr::tbl(campus, "ACAE")
   if (!is.null(program)) {
+    # Validates against ACAE's own program values, not STUSL's canonical
+    # list -- a program with zero ACAE events would be misreported as
+    # unknown.
     valid <- events |> dplyr::distinct(PROGRAM) |> dplyr::pull(PROGRAM)
     if (!program %in% valid) {
       stop(
@@ -88,6 +91,8 @@ probation_by_category <- function(campus, program = NULL) {
 #' GPA trends or shifts over a student's time at the university.
 #'
 #' @measure
+# Students who withdrew before their first recorded term (no TERMGPA rows)
+# are excluded -- there's no GPA history to band for them.
 gpa_trend_table <- function(campus) {
   termgpa <- dplyr::tbl(campus, "TERMGPA")
 
