@@ -1,0 +1,172 @@
+glossary:
+  - term: SAP
+    definition: >
+      Satisfactory Academic Progress. The university's policy defining the
+      GPA thresholds for academic probation and dismissal.
+  - term: probation
+    definition: >
+      Academic probation, triggered when a student's term GPA falls below
+      2.0, flagged with EVENT_TYPE = 'PROBATION' in ACAE.
+  - term: dismissal
+    definition: >
+      Academic dismissal, triggered by two consecutive terms of probation,
+      flagged with EVENT_TYPE = 'DISMISSAL' in ACAE.
+  - term: entering cohort
+    definition: >
+      The group of first-time, full-time students who enrolled in the same
+      starting term, identified by COHORT_YEAR in STUSL.
+  - term: attrition
+    definition: >
+      A student leaving before completing the program without graduating,
+      via either voluntary withdrawal or academic dismissal.
+
+tables:
+  - name: STUSL
+    description: >
+      Student-level table. One row per student in the entering cohort.
+      Contains program assignment, demographics, entry credentials, and
+      final outcome status for the synthetic Meridian State University
+      retention dataset. No real student data.
+    columns:
+      - name: STUID
+        type: string
+        description: Unique student identifier.
+      - name: PROGRAM
+        type: string
+        description: >
+          Declared program. Values: 'Business', 'Engineering',
+          'Liberal Arts'. Use this for by-program summaries.
+      - name: COHORT_YEAR
+        type: number
+        description: Entering cohort year (fall term of first enrollment).
+      - name: AGE
+        type: number
+        description: Age in years at entry.
+      - name: SEX
+        type: string
+        description: Sex ('F'/'M').
+      - name: ENTRY_GPA
+        type: number
+        description: High-school GPA at entry, on a 4.0 scale.
+      - name: ENTRY_TEST_SCORE
+        type: number
+        description: Standardized admissions test score.
+      - name: FINAL_STATUS
+        type: string
+        description: >
+          Outcome as of the end of the tracked 8-term window. Values:
+          'GRADUATED', 'WITHDRAWN' (voluntary), 'DISMISSED' (academic).
+    definitions:
+      - name: withdrawn
+        label: Voluntarily withdrawn
+        description: Student left the university voluntarily.
+        expr: FINAL_STATUS = 'WITHDRAWN'
+      - name: dismissed
+        label: Academically dismissed
+        description: Student was dismissed for academic reasons.
+        expr: FINAL_STATUS = 'DISMISSED'
+      - name: graduated
+        label: Graduated
+        description: Student completed the program.
+        expr: FINAL_STATUS = 'GRADUATED'
+
+  - name: ACAE
+    description: >
+      Academic events table. One row per academic event record: academic
+      probation, dismissal, voluntary withdrawal, leave of absence, or an
+      advising flag. Includes PROGRAM duplicated from STUSL for convenience.
+    columns:
+      - name: STUID
+        type: string
+        description: Unique student identifier; joins to STUSL.
+      - name: PROGRAM
+        type: string
+        description: Declared program (same values as STUSL.PROGRAM).
+      - name: TERM
+        type: number
+        description: Term number (1-8) the event occurred in.
+      - name: EVENT_TYPE
+        type: string
+        description: >
+          Event category. Values: 'PROBATION', 'DISMISSAL', 'WITHDRAWAL',
+          'LOA' (leave of absence), 'ADVISING_FLAG'.
+    definitions:
+      - name: on_probation
+        label: Academic probation event
+        description: Event record marking a term of academic probation.
+        expr: EVENT_TYPE = 'PROBATION'
+      - name: dismissal_event
+        label: Dismissal event
+        description: Event record marking an academic dismissal.
+        expr: EVENT_TYPE = 'DISMISSAL'
+      - name: withdrawal_event
+        label: Withdrawal event
+        description: Event record marking a voluntary withdrawal.
+        expr: EVENT_TYPE = 'WITHDRAWAL'
+
+  - name: TERMGPA
+    description: >
+      Term performance table. One row per student per term enrolled.
+      A student's rows stop at the term they withdrew or were dismissed;
+      students who graduated have all 8 rows.
+    columns:
+      - name: STUID
+        type: string
+        description: Unique student identifier; joins to STUSL.
+      - name: PROGRAM
+        type: string
+        description: Declared program (same values as STUSL.PROGRAM).
+      - name: TERM
+        type: number
+        description: Term number, 1-8 (terms 1-2 are year 1, 3-4 year 2, etc).
+      - name: TERM_GPA
+        type: number
+        description: GPA earned that term, on a 4.0 scale.
+      - name: CREDITS_ATTEMPTED
+        type: number
+        description: Credit hours attempted that term.
+      - name: CREDITS_EARNED
+        type: number
+        description: Credit hours earned that term.
+    definitions:
+      - name: below_probation_threshold
+        label: Below probation GPA threshold
+        description: >
+          Term GPA below the 2.0 SAP probation threshold (see
+          context/policy-conventions.md).
+        expr: TERM_GPA < 2.0
+
+  - name: RETTTE
+    description: >
+      Time-to-event table. One row per student. Time to first attrition
+      event (voluntary withdrawal or academic dismissal), or censored at
+      graduation/end of the tracked window if no such event occurred.
+      Joins to STUSL on STUID.
+    columns:
+      - name: STUID
+        type: string
+        description: Unique student identifier; joins to STUSL.
+      - name: PROGRAM
+        type: string
+        description: Declared program (same values as STUSL.PROGRAM).
+      - name: TIME
+        type: number
+        description: >
+          Term number of the attrition event, or 8 if censored
+          (graduated or otherwise completed all tracked terms).
+      - name: EVENT
+        type: number
+        description: >
+          Event indicator. 1 = attrition event observed (withdrawal or
+          dismissal); 0 = censored (graduated).
+    definitions:
+      - name: observed_event
+        label: Observed attrition event
+        description: Record where attrition was actually observed, not censored.
+        expr: EVENT = 1
+      - name: censored
+        label: Censored record
+        description: >
+          Record where the student completed the tracked window without
+          attriting; TIME reflects time to censoring, not time to event.
+        expr: EVENT = 0
