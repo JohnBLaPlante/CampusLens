@@ -10,9 +10,9 @@ id = "112711d0-a108-4b7c-9ef4-686b8376df7b"
 dashboard_url = "https://pct.demo.soleng.posit.it/connect/#/apps/112711d0-a108-4b7c-9ef4-686b8376df7b"
 direct_url = "https://pct.demo.soleng.posit.it/content/112711d0-a108-4b7c-9ef4-686b8376df7b/"
 logs_url = "https://pct.demo.soleng.posit.it/connect/#/apps/112711d0-a108-4b7c-9ef4-686b8376df7b/logs"
-deployed_at = "2026-09-22T20:38:01.414Z"
-bundle_id = "456"
-bundle_url = "https://pct.demo.soleng.posit.it/__api__/v1/content/112711d0-a108-4b7c-9ef4-686b8376df7b/bundles/456/download"
+deployed_at = "2026-09-24T12:55:04.187Z"
+bundle_id = "461"
+bundle_url = "https://pct.demo.soleng.posit.it/__api__/v1/content/112711d0-a108-4b7c-9ef4-686b8376df7b/bundles/461/download"
 files = [
     ".Renviron",
     ".Rprofile",
