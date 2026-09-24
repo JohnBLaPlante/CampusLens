@@ -6,3 +6,4 @@ renv/library
 renv/staging
 renv/python
 .DS_Store
+.posit
